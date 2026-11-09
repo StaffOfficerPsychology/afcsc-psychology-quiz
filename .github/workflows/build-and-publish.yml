@@ -43,10 +43,10 @@ jobs:
           name: AFCSC-Psychology-APK
           path: project/android/app/build/outputs/apk/debug/app-debug.apk
           if-no-files-found: error
-          - name: Include flashcards app in Pages output
+      - name: Include flashcards app in Pages output
             run: |
-              mkdir -p project/www/flashcards
-              cp -R flashcards/. project/www/flashcards/
+              mkdir       -p project/www/flashcards
+              cp       -R flashcards/. project/www/flashcards/
   deploy-pwa:
     environment:
       name: github-pages
