@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#10243a">
+  <meta name="description" content="AFCSC Senior Course 48 Psychology – 300 revision flashcards.">
+  <title>AFCSC Psychology Flashcards</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand-mark">AF</div>
+    <div>
+      <div class="eyebrow">SENIOR COURSE 48</div>
+      <h1>Psychology Flashcards</h1>
+      <p class="subhead">300 questions · 12 modules</p>
+    </div>
+  </header>
+
+  <main class="app">
+    <section class="toolbar">
+      <label class="module-label" for="moduleSelect">Choose module</label>
+      <select id="moduleSelect"><option value="all">All 12 modules</option></select>
+      <div class="toolbar-actions">
+        <button id="shuffleBtn" class="quiet">Shuffle</button>
+        <button id="resetBtn" class="quiet">Reset progress</button>
+      </div>
+    </section>
+
+    <section class="progress-area" aria-live="polite">
+      <div class="progress-meta">
+        <span id="position">Card 1 of 300</span>
+        <span id="progressCounts">Known 0 · Review 0</span>
+      </div>
+      <div class="progress-track"><div id="progressBar"></div></div>
+    </section>
+
+    <section class="flashcard-wrap">
+      <div class="card" id="flashcard" role="button" tabindex="0" aria-label="Flashcard. Activate to reveal answer.">
+        <div class="card-top">
+          <span id="moduleTag" class="module-tag">MODULE 1</span>
+          <span id="cardId" class="card-id">M01-Q01</span>
+        </div>
+        <div class="card-content">
+          <div id="sideLabel" class="side-label">QUESTION</div>
+          <div id="cardText" class="card-text">Loading flashcards…</div>
+        </div>
+        <div class="card-bottom">
+          <span id="tapHint">Tap card or Reveal answer</span>
+          <span class="flip-icon">↻</span>
+        </div>
+      </div>
+    </section>
+
+    <div class="reveal-row">
+      <button id="revealBtn" class="primary">Reveal answer</button>
+    </div>
+
+    <section class="rating-row" id="ratingRow" hidden>
+      <button id="missedBtn" class="rating missed">× Need to review</button>
+      <button id="knownBtn" class="rating known">✓ I knew it</button>
+    </section>
+
+    <nav class="navigation" aria-label="Flashcard navigation">
+      <button id="prevBtn" class="nav-btn">← Previous</button>
+      <button id="nextBtn" class="nav-btn next">Next →</button>
+    </nav>
+
+    <section class="study-tools">
+      <div class="tool-card">
+        <strong id="knownTotal">0</strong>
+        <span>Known</span>
+      </div>
+      <div class="tool-card">
+        <strong id="reviewTotal">0</strong>
+        <span>To review</span>
+      </div>
+      <div class="tool-card">
+        <strong id="remainingTotal">300</strong>
+        <span>Unmarked</span>
+      </div>
+    </section>
+
+    <section class="help">
+      <h2>How to use</h2>
+      <p>Read the question, try to answer from memory, then reveal the answer. Mark each card as known or needing review. Your progress is saved on this device.</p>
+      <p class="small">This app works offline after its first successful load. Progress is stored locally and is not automatically synchronised between devices.</p>
+    </section>
+  </main>
+
+  <footer>AFCSC Senior Course 48 · Psychology revision resource</footer>
+  <script src="app.js"></script>
+</body>
+</html>
