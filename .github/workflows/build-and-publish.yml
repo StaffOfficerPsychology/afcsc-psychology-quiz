@@ -47,6 +47,10 @@ jobs:
         run: |
               mkdir       -p project/www/flashcards
               cp       -R flashcards/. project/www/flashcards/
+      - name: Upload GitHub Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: project/www
   deploy-pwa:
     environment:
       name: github-pages
