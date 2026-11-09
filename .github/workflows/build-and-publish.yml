@@ -43,7 +43,10 @@ jobs:
           name: AFCSC-Psychology-APK
           path: project/android/app/build/outputs/apk/debug/app-debug.apk
           if-no-files-found: error
-
+- name: Include flashcards app in Pages output
+        run: |
+          mkdir -p project/www/flashcards
+          cp -R flashcards/. project/www/flashcards/
       - uses: actions/configure-pages@v5
 
       - uses: actions/upload-pages-artifact@v3
