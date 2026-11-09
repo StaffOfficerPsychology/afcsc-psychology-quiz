@@ -1,0 +1,2109 @@
+{
+  "title": "AFCSC Senior Course 48 – Psychology: 300 Flashcards",
+  "description": "App-ready question-and-answer flashcard dataset arranged across 12 modules, 25 cards per module.",
+  "schema_version": "1.0",
+  "card_count": 300,
+  "module_count": 12,
+  "cards": [
+    {
+      "id": "M01-Q01",
+      "module_number": 1,
+      "module": "Module 1 – The Making of an Effective Staff Officer",
+      "front": "Define a Staff Officer as presented in the lecture.",
+      "back": "An officer appointed to a headquarters, command, formation or unit to support, advise, coordinate and enable command."
+    },
+    {
+      "id": "M01-Q02",
+      "module_number": 1,
+      "module": "Module 1 – The Making of an Effective Staff Officer",
+      "front": "List the four pillars of an effective Staff Officer.",
+      "back": "Mindset; Ethics; Systems Thinking; Situational Mastery."
+    },
+    {
+      "id": "M01-Q03",
+      "module_number": 1,
+      "module": "Module 1 – The Making of an Effective Staff Officer",
+      "front": "State six ways a Staff Officer enables command.",
+      "back": "Transform intent into action; coordinate resources; develop options; manage information; anticipate risks; ensure timely execution."
+    },
+    {
+      "id": "M01-Q04",
+      "module_number": 1,
+      "module": "Module 1 – The Making of an Effective Staff Officer",
+      "front": "Explain ownership in the Staff Officer's mindset.",
+      "back": "Taking responsibility beyond merely waiting for instructions and ensuring assigned functional responsibilities produce outcomes that strengthen command."
+    },
+    {
+      "id": "M01-Q05",
+      "module_number": 1,
+      "module": "Module 1 – The Making of an Effective Staff Officer",
+      "front": "What is professional curiosity in staff work?",
+      "back": "Continuously seeking better ways to improve processes."
+    },
+    {
+      "id": "M01-Q06",
+      "module_number": 1,
+      "module": "Module 1 – The Making of an Effective Staff Officer",
+      "front": "List five mindset transformations expected of an effective Staff Officer.",
+      "back": "Waiting for instructions to anticipating requirements; assigned duties to understanding commander's intent; isolation to collaboration; reacting to problems to identifying risks early; completing tasks to delivering outcomes."
+    },
+    {
+      "id": "M01-Q07",
+      "module_number": 1,
+      "module": "Module 1 – The Making of an Effective Staff Officer",
+      "front": "Explain Systems Thinking for a Staff Officer.",
+      "back": "Understanding the whole system and the interdependence between functions before solving a particular part or problem."
+    },
+    {
+      "id": "M01-Q08",
+      "module_number": 1,
+      "module": "Module 1 – The Making of an Effective Staff Officer",
+      "front": "List five requirements of Situational Mastery.",
+      "back": "Situational awareness; adaptability; timely judgement; prioritisation; foresight."
+    },
+    {
+      "id": "M01-Q09",
+      "module_number": 1,
+      "module": "Module 1 – The Making of an Effective Staff Officer",
+      "front": "How should a Staff Officer respond when a superior expects only favourable information?",
+      "back": "Present objective facts professionally and respectfully, including limitations, risks and adverse information necessary for sound decisions."
+    },
+    {
+      "id": "M01-Q10",
+      "module_number": 1,
+      "module": "Module 1 – The Making of an Effective Staff Officer",
+      "front": "Distinguish task completion from delivering an outcome that strengthens command.",
+      "back": "Task completion focuses on finishing an activity; outcome orientation ensures it contributes meaningfully to command objectives and effectiveness."
+    },
+    {
+      "id": "M01-Q11",
+      "module_number": 1,
+      "module": "Module 1 – The Making of an Effective Staff Officer",
+      "front": "Why is sound judgement essential to staff effectiveness?",
+      "back": "It enables balanced decisions based on facts, context, risks and command intent."
+    },
+    {
+      "id": "M01-Q12",
+      "module_number": 1,
+      "module": "Module 1 – The Making of an Effective Staff Officer",
+      "front": "What is the Staff Officer's role in information management?",
+      "back": "Collect, assess, organise and present relevant information to support decisions."
+    },
+    {
+      "id": "M01-Q13",
+      "module_number": 1,
+      "module": "Module 1 – The Making of an Effective Staff Officer",
+      "front": "Why is supervision a core staff responsibility?",
+      "back": "It verifies execution, reinforces standards and identifies deficiencies early."
+    },
+    {
+      "id": "M01-Q14",
+      "module_number": 1,
+      "module": "Module 1 – The Making of an Effective Staff Officer",
+      "front": "What is meant by institutional stabiliser?",
+      "back": "A Staff Officer who sustains continuity, discipline and organisational effectiveness."
+    },
+    {
+      "id": "M01-Q15",
+      "module_number": 1,
+      "module": "Module 1 – The Making of an Effective Staff Officer",
+      "front": "List four professional habits of an effective Staff Officer.",
+      "back": "Time management; records management; quality control; supervision; training and mentorship; continuous learning."
+    },
+    {
+      "id": "M01-Q16",
+      "module_number": 1,
+      "module": "Module 1 – The Making of an Effective Staff Officer",
+      "front": "Why must a Staff Officer understand commander's intent?",
+      "back": "It aligns staff activity with the commander's purpose and desired outcomes."
+    },
+    {
+      "id": "M01-Q17",
+      "module_number": 1,
+      "module": "Module 1 – The Making of an Effective Staff Officer",
+      "front": "What is the danger of working in departmental isolation?",
+      "back": "It creates coordination gaps, duplication and failure to understand wider effects."
+    },
+    {
+      "id": "M01-Q18",
+      "module_number": 1,
+      "module": "Module 1 – The Making of an Effective Staff Officer",
+      "front": "Explain the relationship between competence and credibility.",
+      "back": "Competence demonstrates the knowledge and judgement needed to provide reliable professional advice."
+    },
+    {
+      "id": "M01-Q19",
+      "module_number": 1,
+      "module": "Module 1 – The Making of an Effective Staff Officer",
+      "front": "What does anticipation require of a Staff Officer?",
+      "back": "Recognising emerging requirements, risks and likely consequences before they become urgent problems."
+    },
+    {
+      "id": "M01-Q20",
+      "module_number": 1,
+      "module": "Module 1 – The Making of an Effective Staff Officer",
+      "front": "State the seven questions a Staff Officer should ask before submitting staff work.",
+      "back": "Is it accurate, complete, relevant, clear, timely and actionable? What follow-through is required?"
+    },
+    {
+      "id": "M01-Q21",
+      "module_number": 1,
+      "module": "Module 1 – The Making of an Effective Staff Officer",
+      "front": "Why is attention to detail important?",
+      "back": "It reduces omissions, inaccuracies and avoidable errors in staff outputs."
+    },
+    {
+      "id": "M01-Q22",
+      "module_number": 1,
+      "module": "Module 1 – The Making of an Effective Staff Officer",
+      "front": "What is mission focus?",
+      "back": "Aligning staff effort and priorities with mission requirements and commander's intent."
+    },
+    {
+      "id": "M01-Q23",
+      "module_number": 1,
+      "module": "Module 1 – The Making of an Effective Staff Officer",
+      "front": "How does adaptability support situational mastery?",
+      "back": "It enables the officer to adjust judgement and action as circumstances change."
+    },
+    {
+      "id": "M01-Q24",
+      "module_number": 1,
+      "module": "Module 1 – The Making of an Effective Staff Officer",
+      "front": "Why should a Staff Officer anticipate risks?",
+      "back": "Early identification allows command to consider mitigation before risks affect mission execution."
+    },
+    {
+      "id": "M01-Q25",
+      "module_number": 1,
+      "module": "Module 1 – The Making of an Effective Staff Officer",
+      "front": "What is the central test of effective staff work?",
+      "back": "Whether it improves command understanding, decisions, coordination and execution."
+    },
+    {
+      "id": "M02-Q01",
+      "module_number": 2,
+      "module": "Module 2 – Command Without Command: C4I in Staff Appointments",
+      "front": "What is Command Without Command?",
+      "back": "The exercise of influence, coordination and professional responsibility without complete institutional command authority."
+    },
+    {
+      "id": "M02-Q02",
+      "module_number": 2,
+      "module": "Module 2 – Command Without Command: C4I in Staff Appointments",
+      "front": "What does C4I stand for?",
+      "back": "Command, Control, Communications, Computers and Intelligence."
+    },
+    {
+      "id": "M02-Q03",
+      "module_number": 2,
+      "module": "Module 2 – Command Without Command: C4I in Staff Appointments",
+      "front": "State five ways Staff Officers support command.",
+      "back": "Planning; coordination; information management; communication; decision support."
+    },
+    {
+      "id": "M02-Q04",
+      "module_number": 2,
+      "module": "Module 2 – Command Without Command: C4I in Staff Appointments",
+      "front": "Distinguish institutional command from functional command.",
+      "back": "Institutional command covers authority over the wider unit or formation; functional command gives professional responsibility over a designated area."
+    },
+    {
+      "id": "M02-Q05",
+      "module_number": 2,
+      "module": "Module 2 – Command Without Command: C4I in Staff Appointments",
+      "front": "What does a Staff Officer own but not necessarily total authority?",
+      "back": "Responsibility."
+    },
+    {
+      "id": "M02-Q06",
+      "module_number": 2,
+      "module": "Module 2 – Command Without Command: C4I in Staff Appointments",
+      "front": "Explain appointment intoxication.",
+      "back": "It occurs when an officer behaves as though an influential appointment gives command over the entire organisation."
+    },
+    {
+      "id": "M02-Q07",
+      "module_number": 2,
+      "module": "Module 2 – Command Without Command: C4I in Staff Appointments",
+      "front": "List five ways to assert command of an appointment.",
+      "back": "Set responsibilities; establish standards; lead through competence; be professionally firm without arrogance; respect mandate boundaries while taking ownership."
+    },
+    {
+      "id": "M02-Q08",
+      "module_number": 2,
+      "module": "Module 2 – Command Without Command: C4I in Staff Appointments",
+      "front": "What does control mean in staff appointments?",
+      "back": "Maintaining visibility, supervision and coordination over activities and resources within one's area of responsibility."
+    },
+    {
+      "id": "M02-Q09",
+      "module_number": 2,
+      "module": "Module 2 – Command Without Command: C4I in Staff Appointments",
+      "front": "List four mechanisms for effective staff control.",
+      "back": "Situation reports; status updates; attendance records; inspections; registers; trackers; dashboards; accountability procedures."
+    },
+    {
+      "id": "M02-Q10",
+      "module_number": 2,
+      "module": "Module 2 – Command Without Command: C4I in Staff Appointments",
+      "front": "Complete the principle: Trust but _____.",
+      "back": "Verify."
+    },
+    {
+      "id": "M02-Q11",
+      "module_number": 2,
+      "module": "Module 2 – Command Without Command: C4I in Staff Appointments",
+      "front": "What are the three directions of staff communication?",
+      "back": "Upward, lateral and downward."
+    },
+    {
+      "id": "M02-Q12",
+      "module_number": 2,
+      "module": "Module 2 – Command Without Command: C4I in Staff Appointments",
+      "front": "Why is physical presence important to staff control?",
+      "back": "It allows observation, interaction with junior personnel and verification of ground realities."
+    },
+    {
+      "id": "M02-Q13",
+      "module_number": 2,
+      "module": "Module 2 – Command Without Command: C4I in Staff Appointments",
+      "front": "Why must technology support rather than replace professional judgement?",
+      "back": "Computers process information, while officers interpret it, assess implications and make decisions."
+    },
+    {
+      "id": "M02-Q14",
+      "module_number": 2,
+      "module": "Module 2 – Command Without Command: C4I in Staff Appointments",
+      "front": "What is the purpose of upward communication?",
+      "back": "To pass information, advice, concerns and recommendations to superior authority."
+    },
+    {
+      "id": "M02-Q15",
+      "module_number": 2,
+      "module": "Module 2 – Command Without Command: C4I in Staff Appointments",
+      "front": "What is the purpose of lateral communication?",
+      "back": "To coordinate information and activities among peer appointments or departments."
+    },
+    {
+      "id": "M02-Q16",
+      "module_number": 2,
+      "module": "Module 2 – Command Without Command: C4I in Staff Appointments",
+      "front": "What is the purpose of downward communication?",
+      "back": "To convey decisions, direction and instructions to subordinates."
+    },
+    {
+      "id": "M02-Q17",
+      "module_number": 2,
+      "module": "Module 2 – Command Without Command: C4I in Staff Appointments",
+      "front": "Why should bad news be reported promptly?",
+      "back": "Command needs timely adverse information to assess risks and make sound decisions."
+    },
+    {
+      "id": "M02-Q18",
+      "module_number": 2,
+      "module": "Module 2 – Command Without Command: C4I in Staff Appointments",
+      "front": "What is the staff value of intelligence?",
+      "back": "It supports understanding, anticipation and informed command decisions."
+    },
+    {
+      "id": "M02-Q19",
+      "module_number": 2,
+      "module": "Module 2 – Command Without Command: C4I in Staff Appointments",
+      "front": "How does an effective staff system reduce inefficiency?",
+      "back": "Through coordination, information flow and clear responsibilities that reduce confusion, duplication and delay."
+    },
+    {
+      "id": "M02-Q20",
+      "module_number": 2,
+      "module": "Module 2 – Command Without Command: C4I in Staff Appointments",
+      "front": "List six areas a logistics Staff Officer should monitor.",
+      "back": "Vehicle condition; fuel levels; accommodation; equipment availability; maintenance schedules; contractor performance; procurement; personnel responsibilities."
+    },
+    {
+      "id": "M02-Q21",
+      "module_number": 2,
+      "module": "Module 2 – Command Without Command: C4I in Staff Appointments",
+      "front": "What is functional responsibility?",
+      "back": "Accountability for the performance and outcomes of an assigned staff function."
+    },
+    {
+      "id": "M02-Q22",
+      "module_number": 2,
+      "module": "Module 2 – Command Without Command: C4I in Staff Appointments",
+      "front": "Why must a Staff Officer avoid exceeding the appointment mandate?",
+      "back": "To preserve command boundaries, unity of effort and institutional accountability."
+    },
+    {
+      "id": "M02-Q23",
+      "module_number": 2,
+      "module": "Module 2 – Command Without Command: C4I in Staff Appointments",
+      "front": "What is the purpose of situation reports?",
+      "back": "To provide structured updates on conditions, progress, problems and requirements."
+    },
+    {
+      "id": "M02-Q24",
+      "module_number": 2,
+      "module": "Module 2 – Command Without Command: C4I in Staff Appointments",
+      "front": "How do inspections support control?",
+      "back": "They compare actual conditions with required standards and reveal deficiencies."
+    },
+    {
+      "id": "M02-Q25",
+      "module_number": 2,
+      "module": "Module 2 – Command Without Command: C4I in Staff Appointments",
+      "front": "What is the Staff Officer's responsibility after issuing an instruction?",
+      "back": "Monitor implementation, obtain feedback and verify completion."
+    },
+    {
+      "id": "M03-Q01",
+      "module_number": 3,
+      "module": "Module 3 – Ethics and Leadership: The Moral Weight of Staff Influence",
+      "front": "Define ethics as presented in the lecture.",
+      "back": "The moral principles and values that guide conduct and decision-making."
+    },
+    {
+      "id": "M03-Q02",
+      "module_number": 3,
+      "module": "Module 3 – Ethics and Leadership: The Moral Weight of Staff Influence",
+      "front": "Define leadership as used in the lecture.",
+      "back": "Influencing people and improving the organisation through competence, character, professionalism and moral example."
+    },
+    {
+      "id": "M03-Q03",
+      "module_number": 3,
+      "module": "Module 3 – Ethics and Leadership: The Moral Weight of Staff Influence",
+      "front": "Why does staff influence carry moral weight?",
+      "back": "Staff officers shape decisions affecting missions, personnel, resources, morale, operational effectiveness and national security."
+    },
+    {
+      "id": "M03-Q04",
+      "module_number": 3,
+      "module": "Module 3 – Ethics and Leadership: The Moral Weight of Staff Influence",
+      "front": "Why is integrity foundational to trusted staff work?",
+      "back": "It ensures analysis and advice are truthful and impartial, creating trust in the officer and staff system."
+    },
+    {
+      "id": "M03-Q05",
+      "module_number": 3,
+      "module": "Module 3 – Ethics and Leadership: The Moral Weight of Staff Influence",
+      "front": "List seven roles through which Staff Officers influence organisational outcomes.",
+      "back": "Planning; analysis; coordination; supervision; information management; policy implementation; professional advice."
+    },
+    {
+      "id": "M03-Q06",
+      "module_number": 3,
+      "module": "Module 3 – Ethics and Leadership: The Moral Weight of Staff Influence",
+      "front": "What is meant by the invisible burden of staff responsibility?",
+      "back": "Staff officers influence important decisions and outcomes, often without the public visibility associated with commanders."
+    },
+    {
+      "id": "M03-Q07",
+      "module_number": 3,
+      "module": "Module 3 – Ethics and Leadership: The Moral Weight of Staff Influence",
+      "front": "List four consequences of poor staff ethical conduct.",
+      "back": "Poor operational outcomes; weakened morale; waste or corruption; unfair decisions; increased risk to lives; loss of trust."
+    },
+    {
+      "id": "M03-Q08",
+      "module_number": 3,
+      "module": "Module 3 – Ethics and Leadership: The Moral Weight of Staff Influence",
+      "front": "What does discretion mean in staff work?",
+      "back": "Knowing what to say, when to say it and what not to say."
+    },
+    {
+      "id": "M03-Q09",
+      "module_number": 3,
+      "module": "Module 3 – Ethics and Leadership: The Moral Weight of Staff Influence",
+      "front": "List three qualities fundamental to handling sensitive information.",
+      "back": "Discretion; confidentiality; trust."
+    },
+    {
+      "id": "M03-Q10",
+      "module_number": 3,
+      "module": "Module 3 – Ethics and Leadership: The Moral Weight of Staff Influence",
+      "front": "Explain loyalty in ethical staff leadership.",
+      "back": "Faithful commitment to lawful authority, institutional interests and organisational objectives while maintaining discipline."
+    },
+    {
+      "id": "M03-Q11",
+      "module_number": 3,
+      "module": "Module 3 – Ethics and Leadership: The Moral Weight of Staff Influence",
+      "front": "Explain neutrality in staff appointments.",
+      "back": "Objective and impartial judgement based on facts and merit."
+    },
+    {
+      "id": "M03-Q12",
+      "module_number": 3,
+      "module": "Module 3 – Ethics and Leadership: The Moral Weight of Staff Influence",
+      "front": "What three principles must staff officers balance in ethical leadership?",
+      "back": "Loyalty; neutrality; respect for authority."
+    },
+    {
+      "id": "M03-Q13",
+      "module_number": 3,
+      "module": "Module 3 – Ethics and Leadership: The Moral Weight of Staff Influence",
+      "front": "Complete: Loyalty guides commitment, neutrality guides _____, respect for authority guides conduct.",
+      "back": "Judgement."
+    },
+    {
+      "id": "M03-Q14",
+      "module_number": 3,
+      "module": "Module 3 – Ethics and Leadership: The Moral Weight of Staff Influence",
+      "front": "What is moral courage?",
+      "back": "Confidence to do what is right even when difficult, unpopular or likely to attract criticism."
+    },
+    {
+      "id": "M03-Q15",
+      "module_number": 3,
+      "module": "Module 3 – Ethics and Leadership: The Moral Weight of Staff Influence",
+      "front": "List four matters a Staff Officer should explain when speaking truth to power.",
+      "back": "Limitations; risks; legal concerns; resource constraints."
+    },
+    {
+      "id": "M03-Q16",
+      "module_number": 3,
+      "module": "Module 3 – Ethics and Leadership: The Moral Weight of Staff Influence",
+      "front": "State four requirements of professional responsibility and ethical decision-making.",
+      "back": "Ownership; supervision; follow-up; accountability."
+    },
+    {
+      "id": "M03-Q17",
+      "module_number": 3,
+      "module": "Module 3 – Ethics and Leadership: The Moral Weight of Staff Influence",
+      "front": "Why must staff advice be impartial?",
+      "back": "Impartial advice protects decisions from personal bias and supports fairness and sound judgement."
+    },
+    {
+      "id": "M03-Q18",
+      "module_number": 3,
+      "module": "Module 3 – Ethics and Leadership: The Moral Weight of Staff Influence",
+      "front": "Why is confidentiality important?",
+      "back": "It protects sensitive information and preserves institutional and professional trust."
+    },
+    {
+      "id": "M03-Q19",
+      "module_number": 3,
+      "module": "Module 3 – Ethics and Leadership: The Moral Weight of Staff Influence",
+      "front": "How should an officer balance loyalty with honest advice?",
+      "back": "Remain committed to lawful authority while presenting objective facts, risks and professional recommendations."
+    },
+    {
+      "id": "M03-Q20",
+      "module_number": 3,
+      "module": "Module 3 – Ethics and Leadership: The Moral Weight of Staff Influence",
+      "front": "What is the ethical danger of concealing limitations?",
+      "back": "It can mislead command and produce decisions based on an incomplete picture."
+    },
+    {
+      "id": "M03-Q21",
+      "module_number": 3,
+      "module": "Module 3 – Ethics and Leadership: The Moral Weight of Staff Influence",
+      "front": "Why should ethical decisions be defensible if reviewed?",
+      "back": "They should be lawful, fair, professionally sound and accountable."
+    },
+    {
+      "id": "M03-Q22",
+      "module_number": 3,
+      "module": "Module 3 – Ethics and Leadership: The Moral Weight of Staff Influence",
+      "front": "How does professional example influence an organisation?",
+      "back": "Personnel observe leaders and may adopt the conduct and standards demonstrated by them."
+    },
+    {
+      "id": "M03-Q23",
+      "module_number": 3,
+      "module": "Module 3 – Ethics and Leadership: The Moral Weight of Staff Influence",
+      "front": "What is the relationship between competence and character in leadership?",
+      "back": "Competence enables effective performance; character provides the ethical foundation for trusted influence."
+    },
+    {
+      "id": "M03-Q24",
+      "module_number": 3,
+      "module": "Module 3 – Ethics and Leadership: The Moral Weight of Staff Influence",
+      "front": "Why is accountability essential to ethical leadership?",
+      "back": "It makes officers answerable for decisions, actions and consequences."
+    },
+    {
+      "id": "M03-Q25",
+      "module_number": 3,
+      "module": "Module 3 – Ethics and Leadership: The Moral Weight of Staff Influence",
+      "front": "What should a Staff Officer do when aware of an unlawful or unethical proposal?",
+      "back": "Raise the concern through appropriate professional channels and provide lawful, factual advice."
+    },
+    {
+      "id": "M04-Q01",
+      "module_number": 4,
+      "module": "Module 4 – The Military as a Managed System: Organisation and Administration",
+      "front": "What is a managed system in the military context?",
+      "back": "An organised arrangement of people, resources and processes working towards defined objectives."
+    },
+    {
+      "id": "M04-Q02",
+      "module_number": 4,
+      "module": "Module 4 – The Military as a Managed System: Organisation and Administration",
+      "front": "What does effective military administration manage?",
+      "back": "Personnel, materiel, time, events and resources."
+    },
+    {
+      "id": "M04-Q03",
+      "module_number": 4,
+      "module": "Module 4 – The Military as a Managed System: Organisation and Administration",
+      "front": "Why is administration operationally important?",
+      "back": "It supports readiness, morale and mission success."
+    },
+    {
+      "id": "M04-Q04",
+      "module_number": 4,
+      "module": "Module 4 – The Military as a Managed System: Organisation and Administration",
+      "front": "List six administrative enablers of military effectiveness.",
+      "back": "Planning; coordination; prioritisation; documentation; accountability; follow-through."
+    },
+    {
+      "id": "M04-Q05",
+      "module_number": 4,
+      "module": "Module 4 – The Military as a Managed System: Organisation and Administration",
+      "front": "What is resource prioritisation?",
+      "back": "Allocating limited resources according to mission requirements and relative importance."
+    },
+    {
+      "id": "M04-Q06",
+      "module_number": 4,
+      "module": "Module 4 – The Military as a Managed System: Organisation and Administration",
+      "front": "Why is documentation important?",
+      "back": "It preserves decisions, supports continuity and enables accountability."
+    },
+    {
+      "id": "M04-Q07",
+      "module_number": 4,
+      "module": "Module 4 – The Military as a Managed System: Organisation and Administration",
+      "front": "What is follow-through?",
+      "back": "Ensuring assigned actions are completed and verified."
+    },
+    {
+      "id": "M04-Q08",
+      "module_number": 4,
+      "module": "Module 4 – The Military as a Managed System: Organisation and Administration",
+      "front": "Define accountability in administration.",
+      "back": "Answerability for performance and the use of entrusted resources."
+    },
+    {
+      "id": "M04-Q09",
+      "module_number": 4,
+      "module": "Module 4 – The Military as a Managed System: Organisation and Administration",
+      "front": "How does poor time management affect staff work?",
+      "back": "It causes delays, rushed decisions and missed priorities."
+    },
+    {
+      "id": "M04-Q10",
+      "module_number": 4,
+      "module": "Module 4 – The Military as a Managed System: Organisation and Administration",
+      "front": "How do incomplete records affect an organisation?",
+      "back": "They weaken continuity, oversight and decision-making."
+    },
+    {
+      "id": "M04-Q11",
+      "module_number": 4,
+      "module": "Module 4 – The Military as a Managed System: Organisation and Administration",
+      "front": "What is quality control?",
+      "back": "Checking that outputs meet required standards before acceptance."
+    },
+    {
+      "id": "M04-Q12",
+      "module_number": 4,
+      "module": "Module 4 – The Military as a Managed System: Organisation and Administration",
+      "front": "Why is supervision necessary?",
+      "back": "It confirms tasks are executed correctly and on time and identifies deficiencies."
+    },
+    {
+      "id": "M04-Q13",
+      "module_number": 4,
+      "module": "Module 4 – The Military as a Managed System: Organisation and Administration",
+      "front": "What is the purpose of mentorship?",
+      "back": "Developing competence, judgement and professional confidence."
+    },
+    {
+      "id": "M04-Q14",
+      "module_number": 4,
+      "module": "Module 4 – The Military as a Managed System: Organisation and Administration",
+      "front": "What is continuous learning?",
+      "back": "Regular improvement of knowledge, skills and professional practice."
+    },
+    {
+      "id": "M04-Q15",
+      "module_number": 4,
+      "module": "Module 4 – The Military as a Managed System: Organisation and Administration",
+      "front": "What is institutional continuity?",
+      "back": "Maintaining effective processes and functions despite personnel changes."
+    },
+    {
+      "id": "M04-Q16",
+      "module_number": 4,
+      "module": "Module 4 – The Military as a Managed System: Organisation and Administration",
+      "front": "Explain the relationship between administration and readiness.",
+      "back": "Effective administration organises personnel and resources so that the organisation can perform required tasks."
+    },
+    {
+      "id": "M04-Q17",
+      "module_number": 4,
+      "module": "Module 4 – The Military as a Managed System: Organisation and Administration",
+      "front": "What is a resource constraint?",
+      "back": "A limitation affecting the availability or use of resources."
+    },
+    {
+      "id": "M04-Q18",
+      "module_number": 4,
+      "module": "Module 4 – The Military as a Managed System: Organisation and Administration",
+      "front": "How should staff officers address competing priorities?",
+      "back": "Prioritise according to command intent, urgency and mission impact."
+    },
+    {
+      "id": "M04-Q19",
+      "module_number": 4,
+      "module": "Module 4 – The Military as a Managed System: Organisation and Administration",
+      "front": "Why is coordination essential in administration?",
+      "back": "It synchronises activities and reduces duplication, gaps and delays."
+    },
+    {
+      "id": "M04-Q20",
+      "module_number": 4,
+      "module": "Module 4 – The Military as a Managed System: Organisation and Administration",
+      "front": "What is the purpose of an administrative tracker or register?",
+      "back": "To maintain visibility of tasks, status, responsibility and outstanding actions."
+    },
+    {
+      "id": "M04-Q21",
+      "module_number": 4,
+      "module": "Module 4 – The Military as a Managed System: Organisation and Administration",
+      "front": "How does poor resource management affect morale?",
+      "back": "It can create shortages, unfairness, uncertainty and loss of confidence in administration."
+    },
+    {
+      "id": "M04-Q22",
+      "module_number": 4,
+      "module": "Module 4 – The Military as a Managed System: Organisation and Administration",
+      "front": "Why must administrative decisions be documented?",
+      "back": "Documentation provides an audit trail and supports accountability and continuity."
+    },
+    {
+      "id": "M04-Q23",
+      "module_number": 4,
+      "module": "Module 4 – The Military as a Managed System: Organisation and Administration",
+      "front": "What is the role of the Staff Officer in resource stewardship?",
+      "back": "Ensure resources are used responsibly, efficiently and for authorised purposes."
+    },
+    {
+      "id": "M04-Q24",
+      "module_number": 4,
+      "module": "Module 4 – The Military as a Managed System: Organisation and Administration",
+      "front": "What is the difference between efficiency and effectiveness?",
+      "back": "Efficiency concerns using resources well; effectiveness concerns achieving the intended result."
+    },
+    {
+      "id": "M04-Q25",
+      "module_number": 4,
+      "module": "Module 4 – The Military as a Managed System: Organisation and Administration",
+      "front": "Why is follow-up necessary after coordination meetings?",
+      "back": "It converts decisions into assigned actions and confirms implementation."
+    },
+    {
+      "id": "M05-Q01",
+      "module_number": 5,
+      "module": "Module 5 – Nigeria's National Security Architecture: Strategic Context",
+      "front": "What is the national security architecture?",
+      "back": "The institutions, authorities and coordination arrangements through which Nigeria protects its national interests and security."
+    },
+    {
+      "id": "M05-Q02",
+      "module_number": 5,
+      "module": "Module 5 – Nigeria's National Security Architecture: Strategic Context",
+      "front": "Why must a Staff Officer understand the wider national security system?",
+      "back": "To align staff work with national priorities and understand the roles of other security actors."
+    },
+    {
+      "id": "M05-Q03",
+      "module_number": 5,
+      "module": "Module 5 – Nigeria's National Security Architecture: Strategic Context",
+      "front": "What is the role of political leadership in national security?",
+      "back": "Provide policy direction, constitutional authority and legitimacy."
+    },
+    {
+      "id": "M05-Q04",
+      "module_number": 5,
+      "module": "Module 5 – Nigeria's National Security Architecture: Strategic Context",
+      "front": "State key roles of the Armed Forces in national security.",
+      "back": "Defend against external aggression; protect territorial integrity; support authorised internal security; contribute to maritime security and disaster response."
+    },
+    {
+      "id": "M05-Q05",
+      "module_number": 5,
+      "module": "Module 5 – Nigeria's National Security Architecture: Strategic Context",
+      "front": "Why is national security broader than military operations?",
+      "back": "It involves political leadership, military forces, intelligence, law enforcement and other institutions."
+    },
+    {
+      "id": "M05-Q06",
+      "module_number": 5,
+      "module": "Module 5 – Nigeria's National Security Architecture: Strategic Context",
+      "front": "Name four Nigerian security or law-enforcement institutions outside the Armed Forces.",
+      "back": "Nigeria Police Force; DSS; NIA; NSCDC; NIS; Customs; NDLEA; Nigerian Correctional Service; FRSC."
+    },
+    {
+      "id": "M05-Q07",
+      "module_number": 5,
+      "module": "Module 5 – Nigeria's National Security Architecture: Strategic Context",
+      "front": "What is the role of the Nigeria Police Force in the security architecture?",
+      "back": "Law enforcement and maintenance of internal law and order."
+    },
+    {
+      "id": "M05-Q08",
+      "module_number": 5,
+      "module": "Module 5 – Nigeria's National Security Architecture: Strategic Context",
+      "front": "What is the role of intelligence agencies?",
+      "back": "Collect, assess and disseminate intelligence to support national security decisions."
+    },
+    {
+      "id": "M05-Q09",
+      "module_number": 5,
+      "module": "Module 5 – Nigeria's National Security Architecture: Strategic Context",
+      "front": "Why is inter-agency coordination necessary?",
+      "back": "No single agency possesses all capabilities; coordination integrates complementary roles and resources."
+    },
+    {
+      "id": "M05-Q10",
+      "module_number": 5,
+      "module": "Module 5 – Nigeria's National Security Architecture: Strategic Context",
+      "front": "List four consequences of weak inter-agency coordination.",
+      "back": "Duplication; intelligence gaps; delays; operational failure; rivalry; poor resource use."
+    },
+    {
+      "id": "M05-Q11",
+      "module_number": 5,
+      "module": "Module 5 – Nigeria's National Security Architecture: Strategic Context",
+      "front": "What is civil-military relations?",
+      "back": "The relationship between civilian authorities and the Armed Forces in which civilian authorities provide policy direction and military professionals provide expertise."
+    },
+    {
+      "id": "M05-Q12",
+      "module_number": 5,
+      "module": "Module 5 – Nigeria's National Security Architecture: Strategic Context",
+      "front": "Why should military advice align with national objectives?",
+      "back": "Military activity forms part of a wider national effort and must support legitimate policy goals."
+    },
+    {
+      "id": "M05-Q13",
+      "module_number": 5,
+      "module": "Module 5 – Nigeria's National Security Architecture: Strategic Context",
+      "front": "What is the danger of institutional rivalry?",
+      "back": "It undermines cooperation, information sharing and unified national outcomes."
+    },
+    {
+      "id": "M05-Q14",
+      "module_number": 5,
+      "module": "Module 5 – Nigeria's National Security Architecture: Strategic Context",
+      "front": "What does strategic awareness enable a Staff Officer to do?",
+      "back": "Understand the broader institutional environment, anticipate consequences, distinguish information from insight and align recommendations with priorities."
+    },
+    {
+      "id": "M05-Q15",
+      "module_number": 5,
+      "module": "Module 5 – Nigeria's National Security Architecture: Strategic Context",
+      "front": "Why is information sharing important across agencies?",
+      "back": "It reduces intelligence gaps and enables coordinated decisions and action."
+    },
+    {
+      "id": "M05-Q16",
+      "module_number": 5,
+      "module": "Module 5 – Nigeria's National Security Architecture: Strategic Context",
+      "front": "What is the distinction between national security and institutional interest?",
+      "back": "National security serves wider national interests; institutional interest concerns an individual organisation's mandate and priorities."
+    },
+    {
+      "id": "M05-Q17",
+      "module_number": 5,
+      "module": "Module 5 – Nigeria's National Security Architecture: Strategic Context",
+      "front": "How can a Staff Officer support inter-agency coordination?",
+      "back": "Think collaboratively, understand complementary roles and prioritise national outcomes over institutional pride."
+    },
+    {
+      "id": "M05-Q18",
+      "module_number": 5,
+      "module": "Module 5 – Nigeria's National Security Architecture: Strategic Context",
+      "front": "Why is legitimacy important in national security operations?",
+      "back": "It sustains lawful authority, public confidence and cooperation."
+    },
+    {
+      "id": "M05-Q19",
+      "module_number": 5,
+      "module": "Module 5 – Nigeria's National Security Architecture: Strategic Context",
+      "front": "What is the role of the Defence Intelligence Agency?",
+      "back": "Provide defence-related intelligence to support military and national security decision-making."
+    },
+    {
+      "id": "M05-Q20",
+      "module_number": 5,
+      "module": "Module 5 – Nigeria's National Security Architecture: Strategic Context",
+      "front": "What is the role of the Nigerian Immigration Service in the security architecture?",
+      "back": "Manage immigration and border-related responsibilities under its mandate."
+    },
+    {
+      "id": "M05-Q21",
+      "module_number": 5,
+      "module": "Module 5 – Nigeria's National Security Architecture: Strategic Context",
+      "front": "Why must a Staff Officer avoid a narrow unit-centric perspective?",
+      "back": "Security challenges cross institutional boundaries and require broader coordination."
+    },
+    {
+      "id": "M05-Q22",
+      "module_number": 5,
+      "module": "Module 5 – Nigeria's National Security Architecture: Strategic Context",
+      "front": "What is the importance of complementary agency roles?",
+      "back": "Different mandates and capabilities combine to address complex security problems."
+    },
+    {
+      "id": "M05-Q23",
+      "module_number": 5,
+      "module": "Module 5 – Nigeria's National Security Architecture: Strategic Context",
+      "front": "How should a Staff Officer frame recommendations in a national security context?",
+      "back": "Relate them to national priorities, agency mandates, available capabilities and likely consequences."
+    },
+    {
+      "id": "M05-Q24",
+      "module_number": 5,
+      "module": "Module 5 – Nigeria's National Security Architecture: Strategic Context",
+      "front": "What is the risk of confusing intelligence with established fact?",
+      "back": "Unverified or assessed information may be treated as certainty, leading to flawed decisions."
+    },
+    {
+      "id": "M05-Q25",
+      "module_number": 5,
+      "module": "Module 5 – Nigeria's National Security Architecture: Strategic Context",
+      "front": "Why is national security coordination a shared responsibility?",
+      "back": "Security challenges require contributions from multiple institutions and levels of government."
+    },
+    {
+      "id": "M06-Q01",
+      "module_number": 6,
+      "module": "Module 6 – Solutions Architecture and Systems Thinking",
+      "front": "Define Systems Thinking.",
+      "back": "Understanding the whole system and the interdependence between its components before addressing a particular problem."
+    },
+    {
+      "id": "M06-Q02",
+      "module_number": 6,
+      "module": "Module 6 – Solutions Architecture and Systems Thinking",
+      "front": "What is the purpose of root-cause analysis?",
+      "back": "Identify underlying causes rather than treating only visible symptoms."
+    },
+    {
+      "id": "M06-Q03",
+      "module_number": 6,
+      "module": "Module 6 – Solutions Architecture and Systems Thinking",
+      "front": "Why are symptoms not always the real problem?",
+      "back": "Symptoms are visible effects; the underlying cause may exist elsewhere in the system."
+    },
+    {
+      "id": "M06-Q04",
+      "module_number": 6,
+      "module": "Module 6 – Solutions Architecture and Systems Thinking",
+      "front": "What is a second-order effect?",
+      "back": "A consequence that arises from an initial action or its first effects."
+    },
+    {
+      "id": "M06-Q05",
+      "module_number": 6,
+      "module": "Module 6 – Solutions Architecture and Systems Thinking",
+      "front": "What is a third-order effect?",
+      "back": "A further consequence arising from second-order effects."
+    },
+    {
+      "id": "M06-Q06",
+      "module_number": 6,
+      "module": "Module 6 – Solutions Architecture and Systems Thinking",
+      "front": "Why should Staff Officers consider second- and third-order effects?",
+      "back": "To anticipate wider consequences and avoid solutions that create new problems."
+    },
+    {
+      "id": "M06-Q07",
+      "module_number": 6,
+      "module": "Module 6 – Solutions Architecture and Systems Thinking",
+      "front": "What is solutions architecture?",
+      "back": "Designing an integrated and sustainable response to a problem by considering causes, systems, stakeholders and effects."
+    },
+    {
+      "id": "M06-Q08",
+      "module_number": 6,
+      "module": "Module 6 – Solutions Architecture and Systems Thinking",
+      "front": "Why is stakeholder integration important?",
+      "back": "Stakeholders hold relevant knowledge, responsibilities and resources needed for workable solutions."
+    },
+    {
+      "id": "M06-Q09",
+      "module_number": 6,
+      "module": "Module 6 – Solutions Architecture and Systems Thinking",
+      "front": "What is a sustainable solution?",
+      "back": "A solution that remains effective over time and can be maintained within available resources."
+    },
+    {
+      "id": "M06-Q10",
+      "module_number": 6,
+      "module": "Module 6 – Solutions Architecture and Systems Thinking",
+      "front": "What is the danger of premature solution selection?",
+      "back": "It may address the wrong problem because causes and context have not been understood."
+    },
+    {
+      "id": "M06-Q11",
+      "module_number": 6,
+      "module": "Module 6 – Solutions Architecture and Systems Thinking",
+      "front": "How do interrelationships affect problem-solving?",
+      "back": "A change in one function can produce consequences in other connected functions."
+    },
+    {
+      "id": "M06-Q12",
+      "module_number": 6,
+      "module": "Module 6 – Solutions Architecture and Systems Thinking",
+      "front": "What is the purpose of problem definition?",
+      "back": "Establish clearly what is wrong, where, for whom and with what effect."
+    },
+    {
+      "id": "M06-Q13",
+      "module_number": 6,
+      "module": "Module 6 – Solutions Architecture and Systems Thinking",
+      "front": "Why is evidence important in problem diagnosis?",
+      "back": "It tests assumptions and helps distinguish actual causes from speculation."
+    },
+    {
+      "id": "M06-Q14",
+      "module_number": 6,
+      "module": "Module 6 – Solutions Architecture and Systems Thinking",
+      "front": "What is the role of options analysis?",
+      "back": "Compare possible solutions against objectives, feasibility, resources, risks and effects."
+    },
+    {
+      "id": "M06-Q15",
+      "module_number": 6,
+      "module": "Module 6 – Solutions Architecture and Systems Thinking",
+      "front": "Why should feasibility be assessed?",
+      "back": "A theoretically attractive solution may be impossible with available authority, time or resources."
+    },
+    {
+      "id": "M06-Q16",
+      "module_number": 6,
+      "module": "Module 6 – Solutions Architecture and Systems Thinking",
+      "front": "What is the importance of implementation planning?",
+      "back": "It translates a selected solution into tasks, responsibilities, resources and timelines."
+    },
+    {
+      "id": "M06-Q17",
+      "module_number": 6,
+      "module": "Module 6 – Solutions Architecture and Systems Thinking",
+      "front": "Why must solutions be monitored after implementation?",
+      "back": "Monitoring tests whether intended results occur and reveals the need for adjustment."
+    },
+    {
+      "id": "M06-Q18",
+      "module_number": 6,
+      "module": "Module 6 – Solutions Architecture and Systems Thinking",
+      "front": "What is a feedback loop in systems improvement?",
+      "back": "Information from outcomes is used to adjust processes and future decisions."
+    },
+    {
+      "id": "M06-Q19",
+      "module_number": 6,
+      "module": "Module 6 – Solutions Architecture and Systems Thinking",
+      "front": "How can local optimisation harm the wider system?",
+      "back": "Improving one component in isolation may weaken another or reduce overall performance."
+    },
+    {
+      "id": "M06-Q20",
+      "module_number": 6,
+      "module": "Module 6 – Solutions Architecture and Systems Thinking",
+      "front": "Why is cross-functional analysis important?",
+      "back": "It reveals dependencies and prevents departments from solving problems in isolation."
+    },
+    {
+      "id": "M06-Q21",
+      "module_number": 6,
+      "module": "Module 6 – Solutions Architecture and Systems Thinking",
+      "front": "What is the relationship between systems thinking and anticipation?",
+      "back": "Understanding relationships helps predict how changes may affect the wider system."
+    },
+    {
+      "id": "M06-Q22",
+      "module_number": 6,
+      "module": "Module 6 – Solutions Architecture and Systems Thinking",
+      "front": "What is an unintended consequence?",
+      "back": "An outcome that was not planned or anticipated when an action was taken."
+    },
+    {
+      "id": "M06-Q23",
+      "module_number": 6,
+      "module": "Module 6 – Solutions Architecture and Systems Thinking",
+      "front": "Why should assumptions be challenged?",
+      "back": "Unexamined assumptions can distort diagnosis and lead to unsuitable solutions."
+    },
+    {
+      "id": "M06-Q24",
+      "module_number": 6,
+      "module": "Module 6 – Solutions Architecture and Systems Thinking",
+      "front": "What is the difference between corrective and preventive action?",
+      "back": "Corrective action addresses an existing deficiency; preventive action reduces the likelihood of future problems."
+    },
+    {
+      "id": "M06-Q25",
+      "module_number": 6,
+      "module": "Module 6 – Solutions Architecture and Systems Thinking",
+      "front": "What is the ultimate purpose of solutions architecture for Staff Officers?",
+      "back": "Deliver practical, integrated and sustainable solutions that improve organisational performance and mission outcomes."
+    },
+    {
+      "id": "M07-Q01",
+      "module_number": 7,
+      "module": "Module 7 – Emotional Discipline: Anger Management for Staff Officers",
+      "front": "Define emotional discipline in the Staff Officer context.",
+      "back": "The ability to regulate emotional reactions and maintain professional judgement under pressure."
+    },
+    {
+      "id": "M07-Q02",
+      "module_number": 7,
+      "module": "Module 7 – Emotional Discipline: Anger Management for Staff Officers",
+      "front": "Why is anger management important to Staff Officers?",
+      "back": "Uncontrolled anger can damage judgement, relationships, leadership and professional credibility."
+    },
+    {
+      "id": "M07-Q03",
+      "module_number": 7,
+      "module": "Module 7 – Emotional Discipline: Anger Management for Staff Officers",
+      "front": "Name four situations that may trigger anger in staff work.",
+      "back": "Criticism; frustration; conflict; pressure; delays; perceived disrespect; workload."
+    },
+    {
+      "id": "M07-Q04",
+      "module_number": 7,
+      "module": "Module 7 – Emotional Discipline: Anger Management for Staff Officers",
+      "front": "What is the danger of reacting immediately while angry?",
+      "back": "The officer may speak or act impulsively and worsen the situation."
+    },
+    {
+      "id": "M07-Q05",
+      "module_number": 7,
+      "module": "Module 7 – Emotional Discipline: Anger Management for Staff Officers",
+      "front": "What is the difference between feeling anger and acting angrily?",
+      "back": "Anger is an emotion; acting angrily is a behavioural response that can be controlled."
+    },
+    {
+      "id": "M07-Q06",
+      "module_number": 7,
+      "module": "Module 7 – Emotional Discipline: Anger Management for Staff Officers",
+      "front": "How can a Staff Officer manage an immediate anger response?",
+      "back": "Pause, regulate breathing, avoid impulsive speech and assess the issue before responding."
+    },
+    {
+      "id": "M07-Q07",
+      "module_number": 7,
+      "module": "Module 7 – Emotional Discipline: Anger Management for Staff Officers",
+      "front": "Why is self-awareness important in emotional discipline?",
+      "back": "It helps an officer recognise triggers, emotional changes and their effect on behaviour."
+    },
+    {
+      "id": "M07-Q08",
+      "module_number": 7,
+      "module": "Module 7 – Emotional Discipline: Anger Management for Staff Officers",
+      "front": "How can criticism be handled professionally?",
+      "back": "Listen, assess its substance, separate tone from content and respond constructively."
+    },
+    {
+      "id": "M07-Q09",
+      "module_number": 7,
+      "module": "Module 7 – Emotional Discipline: Anger Management for Staff Officers",
+      "front": "What is the danger of personalising professional criticism?",
+      "back": "It shifts attention from improving work to defending ego and may create conflict."
+    },
+    {
+      "id": "M07-Q10",
+      "module_number": 7,
+      "module": "Module 7 – Emotional Discipline: Anger Management for Staff Officers",
+      "front": "How does emotional control support decision-making?",
+      "back": "It reduces impulsive reactions and allows balanced assessment of facts and options."
+    },
+    {
+      "id": "M07-Q11",
+      "module_number": 7,
+      "module": "Module 7 – Emotional Discipline: Anger Management for Staff Officers",
+      "front": "Why is frustration not a justification for misconduct?",
+      "back": "Professional standards and responsibility remain applicable under pressure."
+    },
+    {
+      "id": "M07-Q12",
+      "module_number": 7,
+      "module": "Module 7 – Emotional Discipline: Anger Management for Staff Officers",
+      "front": "How should a Staff Officer handle interpersonal conflict?",
+      "back": "Address the issue calmly, focus on facts and mission requirements, and seek constructive resolution."
+    },
+    {
+      "id": "M07-Q13",
+      "module_number": 7,
+      "module": "Module 7 – Emotional Discipline: Anger Management for Staff Officers",
+      "front": "What is the relationship between emotional discipline and credibility?",
+      "back": "Consistent self-control reinforces confidence in the officer's judgement and leadership."
+    },
+    {
+      "id": "M07-Q14",
+      "module_number": 7,
+      "module": "Module 7 – Emotional Discipline: Anger Management for Staff Officers",
+      "front": "Why should an officer avoid humiliating subordinates when angry?",
+      "back": "Humiliation damages trust, morale and willingness to communicate problems."
+    },
+    {
+      "id": "M07-Q15",
+      "module_number": 7,
+      "module": "Module 7 – Emotional Discipline: Anger Management for Staff Officers",
+      "front": "How can stress affect emotional control?",
+      "back": "Stress can reduce patience and concentration and increase reactive behaviour."
+    },
+    {
+      "id": "M07-Q16",
+      "module_number": 7,
+      "module": "Module 7 – Emotional Discipline: Anger Management for Staff Officers",
+      "front": "What is a constructive response to provocation?",
+      "back": "Maintain composure, assess the issue and respond proportionately and professionally."
+    },
+    {
+      "id": "M07-Q17",
+      "module_number": 7,
+      "module": "Module 7 – Emotional Discipline: Anger Management for Staff Officers",
+      "front": "Why is listening important during disagreement?",
+      "back": "It helps identify the actual concern and prevents assumptions from driving conflict."
+    },
+    {
+      "id": "M07-Q18",
+      "module_number": 7,
+      "module": "Module 7 – Emotional Discipline: Anger Management for Staff Officers",
+      "front": "What is emotional contagion in a team context?",
+      "back": "One person's emotional state can influence the mood and behaviour of others."
+    },
+    {
+      "id": "M07-Q19",
+      "module_number": 7,
+      "module": "Module 7 – Emotional Discipline: Anger Management for Staff Officers",
+      "front": "How does emotional discipline support teamwork?",
+      "back": "It encourages respectful communication, trust and constructive disagreement."
+    },
+    {
+      "id": "M07-Q20",
+      "module_number": 7,
+      "module": "Module 7 – Emotional Discipline: Anger Management for Staff Officers",
+      "front": "What should an officer do after an emotional overreaction?",
+      "back": "Acknowledge the conduct, correct its effects and adopt measures to prevent recurrence."
+    },
+    {
+      "id": "M07-Q21",
+      "module_number": 7,
+      "module": "Module 7 – Emotional Discipline: Anger Management for Staff Officers",
+      "front": "Why is professional firmness different from aggression?",
+      "back": "Firmness communicates clear expectations respectfully; aggression relies on hostility or intimidation."
+    },
+    {
+      "id": "M07-Q22",
+      "module_number": 7,
+      "module": "Module 7 – Emotional Discipline: Anger Management for Staff Officers",
+      "front": "How can an officer prepare for recurring emotional triggers?",
+      "back": "Identify triggers, plan responses and practise self-regulation techniques."
+    },
+    {
+      "id": "M07-Q23",
+      "module_number": 7,
+      "module": "Module 7 – Emotional Discipline: Anger Management for Staff Officers",
+      "front": "What is the role of reflection in emotional discipline?",
+      "back": "It helps evaluate reactions, learn from mistakes and improve future conduct."
+    },
+    {
+      "id": "M07-Q24",
+      "module_number": 7,
+      "module": "Module 7 – Emotional Discipline: Anger Management for Staff Officers",
+      "front": "Why must emotional reactions not override duty?",
+      "back": "Personal feelings should not displace professional obligations and mission requirements."
+    },
+    {
+      "id": "M07-Q25",
+      "module_number": 7,
+      "module": "Module 7 – Emotional Discipline: Anger Management for Staff Officers",
+      "front": "What is the desired outcome of anger management?",
+      "back": "Maintain sound judgement, professional relationships and credibility under pressure."
+    },
+    {
+      "id": "M08-Q01",
+      "module_number": 8,
+      "module": "Module 8 – Culture of Standards: Doing the Right Thing the Right Way Every Time",
+      "front": "Define standards as presented in the lecture.",
+      "back": "Established levels of quality, procedures, conduct, performance or expectations designed to ensure consistency and professionalism."
+    },
+    {
+      "id": "M08-Q02",
+      "module_number": 8,
+      "module": "Module 8 – Culture of Standards: Doing the Right Thing the Right Way Every Time",
+      "front": "Why are standards important in military organisations?",
+      "back": "They promote coordination, predictability, precision, trust, safety and reduced avoidable risk."
+    },
+    {
+      "id": "M08-Q03",
+      "module_number": 8,
+      "module": "Module 8 – Culture of Standards: Doing the Right Thing the Right Way Every Time",
+      "front": "Distinguish 'Good Enough' from 'Done Properly'.",
+      "back": "Good Enough focuses on minimum completion; Done Properly requires disciplined quality, procedure, safety and professional expectations."
+    },
+    {
+      "id": "M08-Q04",
+      "module_number": 8,
+      "module": "Module 8 – Culture of Standards: Doing the Right Thing the Right Way Every Time",
+      "front": "What is normalisation of mediocrity?",
+      "back": "Repeated acceptance of poor performance causes substandard practice to become accepted as normal."
+    },
+    {
+      "id": "M08-Q05",
+      "module_number": 8,
+      "module": "Module 8 – Culture of Standards: Doing the Right Thing the Right Way Every Time",
+      "front": "Why is functionality alone not the standard of success?",
+      "back": "A task may function while containing poor workmanship, safety risks or weaknesses; proper work must be professional and sustainable."
+    },
+    {
+      "id": "M08-Q06",
+      "module_number": 8,
+      "module": "Module 8 – Culture of Standards: Doing the Right Thing the Right Way Every Time",
+      "front": "What is the Staff Officer's role in protecting standards?",
+      "back": "Establish, monitor, reinforce and report compliance with standards within the functional area."
+    },
+    {
+      "id": "M08-Q07",
+      "module_number": 8,
+      "module": "Module 8 – Culture of Standards: Doing the Right Thing the Right Way Every Time",
+      "front": "Why is leadership example important to standards?",
+      "back": "Personnel observe leaders; consistent compliance gives credibility to instructions and reinforces expected behaviour."
+    },
+    {
+      "id": "M08-Q08",
+      "module_number": 8,
+      "module": "Module 8 – Culture of Standards: Doing the Right Thing the Right Way Every Time",
+      "front": "List five requirements for building a culture of standards.",
+      "back": "Clear expectations; supervision; accountability; training and mentoring; recognition; early correction; continuous review."
+    },
+    {
+      "id": "M08-Q09",
+      "module_number": 8,
+      "module": "Module 8 – Culture of Standards: Doing the Right Thing the Right Way Every Time",
+      "front": "What are four qualities associated with doing work properly?",
+      "back": "Effective; efficient; safe; sustainable."
+    },
+    {
+      "id": "M08-Q10",
+      "module_number": 8,
+      "module": "Module 8 – Culture of Standards: Doing the Right Thing the Right Way Every Time",
+      "front": "What is the danger of tolerating small deviations?",
+      "back": "Repeated deviations can weaken expectations and gradually normalise poor performance."
+    },
+    {
+      "id": "M08-Q11",
+      "module_number": 8,
+      "module": "Module 8 – Culture of Standards: Doing the Right Thing the Right Way Every Time",
+      "front": "Why are standards often unnoticed when functioning properly?",
+      "back": "They become embedded in routine and are most visible when they fail."
+    },
+    {
+      "id": "M08-Q12",
+      "module_number": 8,
+      "module": "Module 8 – Culture of Standards: Doing the Right Thing the Right Way Every Time",
+      "front": "What is the role of accountability in maintaining standards?",
+      "back": "It makes personnel answerable for compliance and correction of deficiencies."
+    },
+    {
+      "id": "M08-Q13",
+      "module_number": 8,
+      "module": "Module 8 – Culture of Standards: Doing the Right Thing the Right Way Every Time",
+      "front": "Why must accountability be fair and developmental?",
+      "back": "It should correct deficiencies and improve performance rather than merely punish."
+    },
+    {
+      "id": "M08-Q14",
+      "module_number": 8,
+      "module": "Module 8 – Culture of Standards: Doing the Right Thing the Right Way Every Time",
+      "front": "How can deadlines threaten standards?",
+      "back": "Pressure for speed may encourage shortcuts and acceptance of incomplete work."
+    },
+    {
+      "id": "M08-Q15",
+      "module_number": 8,
+      "module": "Module 8 – Culture of Standards: Doing the Right Thing the Right Way Every Time",
+      "front": "What is the danger of praising shortcuts because a deadline was met?",
+      "back": "It rewards poor practice and can embed shortcuts in organisational culture."
+    },
+    {
+      "id": "M08-Q16",
+      "module_number": 8,
+      "module": "Module 8 – Culture of Standards: Doing the Right Thing the Right Way Every Time",
+      "front": "Complete: Standards survive where leadership _____ them.",
+      "back": "Protects."
+    },
+    {
+      "id": "M08-Q17",
+      "module_number": 8,
+      "module": "Module 8 – Culture of Standards: Doing the Right Thing the Right Way Every Time",
+      "front": "What is the relationship between standards and safety?",
+      "back": "Standards establish disciplined procedures that reduce avoidable hazards and errors."
+    },
+    {
+      "id": "M08-Q18",
+      "module_number": 8,
+      "module": "Module 8 – Culture of Standards: Doing the Right Thing the Right Way Every Time",
+      "front": "Why is repetition important in standards culture?",
+      "back": "Repeated correct behaviour turns expectations into consistent professional habits."
+    },
+    {
+      "id": "M08-Q19",
+      "module_number": 8,
+      "module": "Module 8 – Culture of Standards: Doing the Right Thing the Right Way Every Time",
+      "front": "How should a Staff Officer respond to a discovered deficiency?",
+      "back": "Record it, report it, initiate correction and verify that corrective action is completed."
+    },
+    {
+      "id": "M08-Q20",
+      "module_number": 8,
+      "module": "Module 8 – Culture of Standards: Doing the Right Thing the Right Way Every Time",
+      "front": "Why is supervision necessary even when personnel are experienced?",
+      "back": "Experience does not remove the need to verify compliance and identify emerging deficiencies."
+    },
+    {
+      "id": "M08-Q21",
+      "module_number": 8,
+      "module": "Module 8 – Culture of Standards: Doing the Right Thing the Right Way Every Time",
+      "front": "What is the relationship between standards and trust?",
+      "back": "Consistent standards make performance predictable and strengthen confidence in personnel and systems."
+    },
+    {
+      "id": "M08-Q22",
+      "module_number": 8,
+      "module": "Module 8 – Culture of Standards: Doing the Right Thing the Right Way Every Time",
+      "front": "How can inadequate resources affect standards?",
+      "back": "Resource limitations may constrain performance and require prioritisation, but should not justify concealing deficiencies."
+    },
+    {
+      "id": "M08-Q23",
+      "module_number": 8,
+      "module": "Module 8 – Culture of Standards: Doing the Right Thing the Right Way Every Time",
+      "front": "What is the difference between a standard and a preference?",
+      "back": "A standard is an established requirement or benchmark; a preference is an individual choice or inclination."
+    },
+    {
+      "id": "M08-Q24",
+      "module_number": 8,
+      "module": "Module 8 – Culture of Standards: Doing the Right Thing the Right Way Every Time",
+      "front": "Why should standards be reviewed periodically?",
+      "back": "Review keeps procedures relevant to changing requirements and lessons from performance."
+    },
+    {
+      "id": "M08-Q25",
+      "module_number": 8,
+      "module": "Module 8 – Culture of Standards: Doing the Right Thing the Right Way Every Time",
+      "front": "What is the ultimate purpose of a culture of standards?",
+      "back": "Make quality, discipline and excellence habitual across the organisation."
+    },
+    {
+      "id": "M09-Q01",
+      "module_number": 9,
+      "module": "Module 9 – Power, Privilege and Restraint: Limits of Authority",
+      "front": "What is the central principle governing military power?",
+      "back": "Power and authority are entrusted for service, not personal benefit."
+    },
+    {
+      "id": "M09-Q02",
+      "module_number": 9,
+      "module": "Module 9 – Power, Privilege and Restraint: Limits of Authority",
+      "front": "What are the principal sources of military authority?",
+      "back": "Rank, appointment, command responsibility and delegated institutional powers."
+    },
+    {
+      "id": "M09-Q03",
+      "module_number": 9,
+      "module": "Module 9 – Power, Privilege and Restraint: Limits of Authority",
+      "front": "Why are there limits to military authority?",
+      "back": "Authority is constrained by law, institutional rules, professional duties and ethical obligations."
+    },
+    {
+      "id": "M09-Q04",
+      "module_number": 9,
+      "module": "Module 9 – Power, Privilege and Restraint: Limits of Authority",
+      "front": "What is entitlement in the context of authority?",
+      "back": "A belief that rank or position confers personal rights or privileges beyond legitimate limits."
+    },
+    {
+      "id": "M09-Q05",
+      "module_number": 9,
+      "module": "Module 9 – Power, Privilege and Restraint: Limits of Authority",
+      "front": "Explain the 'because I can' mentality.",
+      "back": "Using authority or capability as justification for an action without considering whether it is lawful, fair or proper."
+    },
+    {
+      "id": "M09-Q06",
+      "module_number": 9,
+      "module": "Module 9 – Power, Privilege and Restraint: Limits of Authority",
+      "front": "Why is restraint a sign of professional strength?",
+      "back": "It demonstrates disciplined use of authority within lawful and ethical boundaries."
+    },
+    {
+      "id": "M09-Q07",
+      "module_number": 9,
+      "module": "Module 9 – Power, Privilege and Restraint: Limits of Authority",
+      "front": "How can misuse of privilege damage an institution?",
+      "back": "It undermines fairness, morale, discipline and public trust."
+    },
+    {
+      "id": "M09-Q08",
+      "module_number": 9,
+      "module": "Module 9 – Power, Privilege and Restraint: Limits of Authority",
+      "front": "Why must institutional resources not be treated as personal property?",
+      "back": "They are provided for official purposes and remain subject to accountability."
+    },
+    {
+      "id": "M09-Q09",
+      "module_number": 9,
+      "module": "Module 9 – Power, Privilege and Restraint: Limits of Authority",
+      "front": "What is the danger of repeated obedience creating entitlement?",
+      "back": "Compliance may be mistaken for personal superiority or unrestricted authority."
+    },
+    {
+      "id": "M09-Q10",
+      "module_number": 9,
+      "module": "Module 9 – Power, Privilege and Restraint: Limits of Authority",
+      "front": "How can authority be abused against subordinates?",
+      "back": "Through intimidation, unfair treatment, exploitation or misuse of position."
+    },
+    {
+      "id": "M09-Q11",
+      "module_number": 9,
+      "module": "Module 9 – Power, Privilege and Restraint: Limits of Authority",
+      "front": "Why is accountability necessary when exercising authority?",
+      "back": "It subjects decisions and conduct to scrutiny and discourages abuse."
+    },
+    {
+      "id": "M09-Q12",
+      "module_number": 9,
+      "module": "Module 9 – Power, Privilege and Restraint: Limits of Authority",
+      "front": "What is the relationship between authority and responsibility?",
+      "back": "Authority enables action, while responsibility requires answerability for its exercise and consequences."
+    },
+    {
+      "id": "M09-Q13",
+      "module_number": 9,
+      "module": "Module 9 – Power, Privilege and Restraint: Limits of Authority",
+      "front": "Why must officers respect civilians when exercising military authority?",
+      "back": "Professional conduct and lawful limits protect rights, legitimacy and public confidence."
+    },
+    {
+      "id": "M09-Q14",
+      "module_number": 9,
+      "module": "Module 9 – Power, Privilege and Restraint: Limits of Authority",
+      "front": "What is the danger of assuming rank justifies unlimited influence?",
+      "back": "It encourages overreach and weakens institutional checks and professional judgement."
+    },
+    {
+      "id": "M09-Q15",
+      "module_number": 9,
+      "module": "Module 9 – Power, Privilege and Restraint: Limits of Authority",
+      "front": "How should an officer respond to an instruction that appears outside lawful authority?",
+      "back": "Clarify the instruction and raise the legal or professional concern through appropriate channels."
+    },
+    {
+      "id": "M09-Q16",
+      "module_number": 9,
+      "module": "Module 9 – Power, Privilege and Restraint: Limits of Authority",
+      "front": "What is the purpose of institutional safeguards?",
+      "back": "To prevent misconduct and protect both the institution and personnel."
+    },
+    {
+      "id": "M09-Q17",
+      "module_number": 9,
+      "module": "Module 9 – Power, Privilege and Restraint: Limits of Authority",
+      "front": "Why is restraint not weakness?",
+      "back": "It reflects self-control, fairness and disciplined application of authority."
+    },
+    {
+      "id": "M09-Q18",
+      "module_number": 9,
+      "module": "Module 9 – Power, Privilege and Restraint: Limits of Authority",
+      "front": "What is the difference between privilege and entitlement?",
+      "back": "Privilege is an authorised condition or benefit linked to service; entitlement assumes personal ownership or unrestricted claim."
+    },
+    {
+      "id": "M09-Q19",
+      "module_number": 9,
+      "module": "Module 9 – Power, Privilege and Restraint: Limits of Authority",
+      "front": "How can officers prevent gradual normalisation of power abuse?",
+      "back": "Apply rules consistently, accept scrutiny, report misconduct and model restraint."
+    },
+    {
+      "id": "M09-Q20",
+      "module_number": 9,
+      "module": "Module 9 – Power, Privilege and Restraint: Limits of Authority",
+      "front": "Why should delegated powers be exercised within mandate?",
+      "back": "Delegation confers limited authority for defined purposes, not unrestricted command."
+    },
+    {
+      "id": "M09-Q21",
+      "module_number": 9,
+      "module": "Module 9 – Power, Privilege and Restraint: Limits of Authority",
+      "front": "What is the risk of using official transport or accommodation for unauthorised personal benefit?",
+      "back": "It misuses institutional resources and undermines accountability and trust."
+    },
+    {
+      "id": "M09-Q22",
+      "module_number": 9,
+      "module": "Module 9 – Power, Privilege and Restraint: Limits of Authority",
+      "front": "How does fairness strengthen authority?",
+      "back": "Fair treatment builds legitimacy, trust and willingness to comply."
+    },
+    {
+      "id": "M09-Q23",
+      "module_number": 9,
+      "module": "Module 9 – Power, Privilege and Restraint: Limits of Authority",
+      "front": "Why must officers accept institutional accountability mechanisms?",
+      "back": "They protect the organisation and ensure authority remains answerable."
+    },
+    {
+      "id": "M09-Q24",
+      "module_number": 9,
+      "module": "Module 9 – Power, Privilege and Restraint: Limits of Authority",
+      "front": "What is the danger of informal influence based solely on uniform or status?",
+      "back": "It may produce compliance without proper authority or accountability."
+    },
+    {
+      "id": "M09-Q25",
+      "module_number": 9,
+      "module": "Module 9 – Power, Privilege and Restraint: Limits of Authority",
+      "front": "State the professional test for exercising power.",
+      "back": "Ask whether the action is lawful, authorised, fair, necessary and defensible."
+    },
+    {
+      "id": "M10-Q01",
+      "module_number": 10,
+      "module": "Module 10 – Sexual Behaviour: Implications and Consequences for Service Personnel",
+      "front": "Why is sexual conduct a professional concern in military service?",
+      "back": "It can affect discipline, trust, welfare, unit cohesion, safety and institutional reputation."
+    },
+    {
+      "id": "M10-Q02",
+      "module_number": 10,
+      "module": "Module 10 – Sexual Behaviour: Implications and Consequences for Service Personnel",
+      "front": "What is consent?",
+      "back": "A voluntary and informed agreement to participate in a specific activity."
+    },
+    {
+      "id": "M10-Q03",
+      "module_number": 10,
+      "module": "Module 10 – Sexual Behaviour: Implications and Consequences for Service Personnel",
+      "front": "Why must consent be freely given?",
+      "back": "Pressure, coercion or fear can undermine a person's ability to choose freely."
+    },
+    {
+      "id": "M10-Q04",
+      "module_number": 10,
+      "module": "Module 10 – Sexual Behaviour: Implications and Consequences for Service Personnel",
+      "front": "What is the significance of capacity in consent?",
+      "back": "A person must have the ability to understand and make the relevant decision."
+    },
+    {
+      "id": "M10-Q05",
+      "module_number": 10,
+      "module": "Module 10 – Sexual Behaviour: Implications and Consequences for Service Personnel",
+      "front": "Why is apparent agreement not always valid consent?",
+      "back": "It may arise from coercion, fear, incapacity or abuse of power."
+    },
+    {
+      "id": "M10-Q06",
+      "module_number": 10,
+      "module": "Module 10 – Sexual Behaviour: Implications and Consequences for Service Personnel",
+      "front": "What is sexual harassment in professional settings?",
+      "back": "Unwelcome sexual conduct or behaviour that violates dignity or creates an intimidating, hostile or offensive environment."
+    },
+    {
+      "id": "M10-Q07",
+      "module_number": 10,
+      "module": "Module 10 – Sexual Behaviour: Implications and Consequences for Service Personnel",
+      "front": "What is fraternisation in the service context?",
+      "back": "An inappropriate personal relationship that breaches professional boundaries or applicable service rules."
+    },
+    {
+      "id": "M10-Q08",
+      "module_number": 10,
+      "module": "Module 10 – Sexual Behaviour: Implications and Consequences for Service Personnel",
+      "front": "Why do power dynamics matter in relationships?",
+      "back": "Differences in rank or authority can create pressure and undermine genuinely voluntary choice."
+    },
+    {
+      "id": "M10-Q09",
+      "module_number": 10,
+      "module": "Module 10 – Sexual Behaviour: Implications and Consequences for Service Personnel",
+      "front": "What are professional boundaries?",
+      "back": "Limits governing appropriate conduct and relationships in the workplace and service environment."
+    },
+    {
+      "id": "M10-Q10",
+      "module_number": 10,
+      "module": "Module 10 – Sexual Behaviour: Implications and Consequences for Service Personnel",
+      "front": "List four potential consequences of inappropriate sexual conduct.",
+      "back": "Disciplinary action; legal consequences; damaged careers; reduced morale; unit disruption; reputational harm."
+    },
+    {
+      "id": "M10-Q11",
+      "module_number": 10,
+      "module": "Module 10 – Sexual Behaviour: Implications and Consequences for Service Personnel",
+      "front": "Why is abuse of authority in a sexual context especially serious?",
+      "back": "It exploits institutional power and can undermine consent, dignity and trust."
+    },
+    {
+      "id": "M10-Q12",
+      "module_number": 10,
+      "module": "Module 10 – Sexual Behaviour: Implications and Consequences for Service Personnel",
+      "front": "What is the duty to report in cases of misconduct?",
+      "back": "The obligation to report suspected or known misconduct through appropriate channels in accordance with applicable rules."
+    },
+    {
+      "id": "M10-Q13",
+      "module_number": 10,
+      "module": "Module 10 – Sexual Behaviour: Implications and Consequences for Service Personnel",
+      "front": "Why is confidentiality important when handling allegations?",
+      "back": "It protects privacy and the integrity of the process while avoiding unnecessary disclosure."
+    },
+    {
+      "id": "M10-Q14",
+      "module_number": 10,
+      "module": "Module 10 – Sexual Behaviour: Implications and Consequences for Service Personnel",
+      "front": "Why must allegations be handled fairly?",
+      "back": "Fair procedures protect complainants, respondents and institutional confidence in the process."
+    },
+    {
+      "id": "M10-Q15",
+      "module_number": 10,
+      "module": "Module 10 – Sexual Behaviour: Implications and Consequences for Service Personnel",
+      "front": "What is retaliation?",
+      "back": "Adverse treatment of a person for reporting, opposing or participating in the handling of misconduct."
+    },
+    {
+      "id": "M10-Q16",
+      "module_number": 10,
+      "module": "Module 10 – Sexual Behaviour: Implications and Consequences for Service Personnel",
+      "front": "Why is retaliation unacceptable?",
+      "back": "It discourages reporting, harms personnel and undermines accountability."
+    },
+    {
+      "id": "M10-Q17",
+      "module_number": 10,
+      "module": "Module 10 – Sexual Behaviour: Implications and Consequences for Service Personnel",
+      "front": "How can leaders prevent sexual misconduct?",
+      "back": "Set clear expectations, educate personnel, enforce rules, supervise and respond promptly to concerns."
+    },
+    {
+      "id": "M10-Q18",
+      "module_number": 10,
+      "module": "Module 10 – Sexual Behaviour: Implications and Consequences for Service Personnel",
+      "front": "Why is professional conduct required outside formal duty hours?",
+      "back": "Service reputation and professional responsibilities are not confined to working hours."
+    },
+    {
+      "id": "M10-Q19",
+      "module_number": 10,
+      "module": "Module 10 – Sexual Behaviour: Implications and Consequences for Service Personnel",
+      "front": "What is the relationship between consent and rank?",
+      "back": "Rank does not create consent; authority must never be used to pressure another person."
+    },
+    {
+      "id": "M10-Q20",
+      "module_number": 10,
+      "module": "Module 10 – Sexual Behaviour: Implications and Consequences for Service Personnel",
+      "front": "How should a Staff Officer respond to a disclosure of misconduct?",
+      "back": "Listen respectfully, avoid prejudgment, preserve appropriate confidentiality and guide reporting through authorised channels."
+    },
+    {
+      "id": "M10-Q21",
+      "module_number": 10,
+      "module": "Module 10 – Sexual Behaviour: Implications and Consequences for Service Personnel",
+      "front": "Why should personnel understand applicable service rules?",
+      "back": "Knowledge helps prevent misconduct and supports correct reporting and response."
+    },
+    {
+      "id": "M10-Q22",
+      "module_number": 10,
+      "module": "Module 10 – Sexual Behaviour: Implications and Consequences for Service Personnel",
+      "front": "What is the risk of ignoring inappropriate conduct?",
+      "back": "It may allow harm to continue and signal institutional tolerance."
+    },
+    {
+      "id": "M10-Q23",
+      "module_number": 10,
+      "module": "Module 10 – Sexual Behaviour: Implications and Consequences for Service Personnel",
+      "front": "Why must investigations avoid assumptions?",
+      "back": "Findings should be based on evidence and fair procedures rather than rank, rumour or bias."
+    },
+    {
+      "id": "M10-Q24",
+      "module_number": 10,
+      "module": "Module 10 – Sexual Behaviour: Implications and Consequences for Service Personnel",
+      "front": "How does sexual misconduct affect unit cohesion?",
+      "back": "It can create distrust, division, fear and reduced willingness to work together."
+    },
+    {
+      "id": "M10-Q25",
+      "module_number": 10,
+      "module": "Module 10 – Sexual Behaviour: Implications and Consequences for Service Personnel",
+      "front": "What is the professional standard for relationships in service?",
+      "back": "Conduct must respect consent, applicable rules, dignity, authority boundaries and professional responsibilities."
+    },
+    {
+      "id": "M11-Q01",
+      "module_number": 11,
+      "module": "Module 11 – Seeing the Battlefield Before It Explodes: General Situational Awareness",
+      "front": "What are the three layers of situational awareness?",
+      "back": "Perception, comprehension and projection."
+    },
+    {
+      "id": "M11-Q02",
+      "module_number": 11,
+      "module": "Module 11 – Seeing the Battlefield Before It Explodes: General Situational Awareness",
+      "front": "Define perception in situational awareness.",
+      "back": "The ability to notice what is happening through disciplined observation of events, people, systems, movements, reports, behaviour and conditions."
+    },
+    {
+      "id": "M11-Q03",
+      "module_number": 11,
+      "module": "Module 11 – Seeing the Battlefield Before It Explodes: General Situational Awareness",
+      "front": "What is comprehension in situational awareness?",
+      "back": "Interpreting what has been observed and understanding its meaning within the wider context."
+    },
+    {
+      "id": "M11-Q04",
+      "module_number": 11,
+      "module": "Module 11 – Seeing the Battlefield Before It Explodes: General Situational Awareness",
+      "front": "What is projection in situational awareness?",
+      "back": "Anticipating what may happen next based on understanding the current situation and likely development."
+    },
+    {
+      "id": "M11-Q05",
+      "module_number": 11,
+      "module": "Module 11 – Seeing the Battlefield Before It Explodes: General Situational Awareness",
+      "front": "List five indicators a perceptive Staff Officer should identify.",
+      "back": "Patterns; anomalies; weak signals; behavioural changes; risks."
+    },
+    {
+      "id": "M11-Q06",
+      "module_number": 11,
+      "module": "Module 11 – Seeing the Battlefield Before It Explodes: General Situational Awareness",
+      "front": "Why must situational awareness extend beyond the combat zone?",
+      "back": "Problems may develop through morale, logistics, administration, information flows and organisational behaviour outside the immediate combat area."
+    },
+    {
+      "id": "M11-Q07",
+      "module_number": 11,
+      "module": "Module 11 – Seeing the Battlefield Before It Explodes: General Situational Awareness",
+      "front": "List four human or organisational factors affecting military effectiveness.",
+      "back": "Morale; leadership; discipline; stress; interpersonal relationships; organisational dynamics."
+    },
+    {
+      "id": "M11-Q08",
+      "module_number": 11,
+      "module": "Module 11 – Seeing the Battlefield Before It Explodes: General Situational Awareness",
+      "front": "What is the highest level of situational awareness identified in the lecture?",
+      "back": "Anticipation."
+    },
+    {
+      "id": "M11-Q09",
+      "module_number": 11,
+      "module": "Module 11 – Seeing the Battlefield Before It Explodes: General Situational Awareness",
+      "front": "How can routine become a hindrance to awareness?",
+      "back": "Routine can create complacency, reduce questioning and cause abnormal conditions to be accepted as normal."
+    },
+    {
+      "id": "M11-Q10",
+      "module_number": 11,
+      "module": "Module 11 – Seeing the Battlefield Before It Explodes: General Situational Awareness",
+      "front": "List seven factors that weaken situational awareness.",
+      "back": "Cognitive overload; confirmation bias; rank-induced isolation; overreliance on reports; poor doctrine or standards awareness; emotional distraction; static thinking or weak curiosity."
+    },
+    {
+      "id": "M11-Q11",
+      "module_number": 11,
+      "module": "Module 11 – Seeing the Battlefield Before It Explodes: General Situational Awareness",
+      "front": "List six practices for developing situational awareness.",
+      "back": "Deliberate observation; doctrine/SOP knowledge; curiosity and pattern recognition; anomaly investigation; cross-functional awareness; ground-truth verification; information management; anticipation."
+    },
+    {
+      "id": "M11-Q12",
+      "module_number": 11,
+      "module": "Module 11 – Seeing the Battlefield Before It Explodes: General Situational Awareness",
+      "front": "What is confirmation bias?",
+      "back": "The tendency to favour information that supports existing beliefs or expectations."
+    },
+    {
+      "id": "M11-Q13",
+      "module_number": 11,
+      "module": "Module 11 – Seeing the Battlefield Before It Explodes: General Situational Awareness",
+      "front": "What is cognitive overload?",
+      "back": "A condition in which information or demands exceed the capacity to process them effectively."
+    },
+    {
+      "id": "M11-Q14",
+      "module_number": 11,
+      "module": "Module 11 – Seeing the Battlefield Before It Explodes: General Situational Awareness",
+      "front": "What is rank-induced isolation?",
+      "back": "A situation where seniority or hierarchy reduces access to candid information and challenge."
+    },
+    {
+      "id": "M11-Q15",
+      "module_number": 11,
+      "module": "Module 11 – Seeing the Battlefield Before It Explodes: General Situational Awareness",
+      "front": "Why is overreliance on reports dangerous?",
+      "back": "Reports may be incomplete or inaccurate and may not reflect ground realities."
+    },
+    {
+      "id": "M11-Q16",
+      "module_number": 11,
+      "module": "Module 11 – Seeing the Battlefield Before It Explodes: General Situational Awareness",
+      "front": "What is ground-truth verification?",
+      "back": "Checking reports and assumptions against actual conditions through observation or reliable confirmation."
+    },
+    {
+      "id": "M11-Q17",
+      "module_number": 11,
+      "module": "Module 11 – Seeing the Battlefield Before It Explodes: General Situational Awareness",
+      "front": "Why is cross-functional awareness important?",
+      "back": "It reveals how developments in one function affect other areas of the organisation."
+    },
+    {
+      "id": "M11-Q18",
+      "module_number": 11,
+      "module": "Module 11 – Seeing the Battlefield Before It Explodes: General Situational Awareness",
+      "front": "What is a weak signal?",
+      "back": "A subtle early indication of a possible emerging change or problem."
+    },
+    {
+      "id": "M11-Q19",
+      "module_number": 11,
+      "module": "Module 11 – Seeing the Battlefield Before It Explodes: General Situational Awareness",
+      "front": "What is an anomaly?",
+      "back": "A deviation from an expected pattern, condition or standard that may require investigation."
+    },
+    {
+      "id": "M11-Q20",
+      "module_number": 11,
+      "module": "Module 11 – Seeing the Battlefield Before It Explodes: General Situational Awareness",
+      "front": "Why should a Staff Officer investigate anomalies?",
+      "back": "They may reveal emerging risks, hidden problems or changing conditions."
+    },
+    {
+      "id": "M11-Q21",
+      "module_number": 11,
+      "module": "Module 11 – Seeing the Battlefield Before It Explodes: General Situational Awareness",
+      "front": "How can emotional distraction weaken awareness?",
+      "back": "It diverts attention and can distort interpretation or judgement."
+    },
+    {
+      "id": "M11-Q22",
+      "module_number": 11,
+      "module": "Module 11 – Seeing the Battlefield Before It Explodes: General Situational Awareness",
+      "front": "What is the danger of static thinking?",
+      "back": "It assumes conditions remain unchanged and overlooks emerging developments."
+    },
+    {
+      "id": "M11-Q23",
+      "module_number": 11,
+      "module": "Module 11 – Seeing the Battlefield Before It Explodes: General Situational Awareness",
+      "front": "Why is information alone not situational awareness?",
+      "back": "Information must be interpreted and connected to context before it becomes understanding."
+    },
+    {
+      "id": "M11-Q24",
+      "module_number": 11,
+      "module": "Module 11 – Seeing the Battlefield Before It Explodes: General Situational Awareness",
+      "front": "How does a perceptive professional differ from a reactive functionary?",
+      "back": "A perceptive professional detects patterns and anticipates risks; a reactive functionary responds after problems occur."
+    },
+    {
+      "id": "M11-Q25",
+      "module_number": 11,
+      "module": "Module 11 – Seeing the Battlefield Before It Explodes: General Situational Awareness",
+      "front": "Why must a Staff Officer warn command early?",
+      "back": "Early warning gives command time to assess risks and take preventive action."
+    },
+    {
+      "id": "M12-Q01",
+      "module_number": 12,
+      "module": "Module 12 – Diagnosing Organisational Performance and Leading Institutional Transformation",
+      "front": "What is the purpose of organisational diagnosis?",
+      "back": "Identify organisational weaknesses, understand their causes and determine areas requiring improvement."
+    },
+    {
+      "id": "M12-Q02",
+      "module_number": 12,
+      "module": "Module 12 – Diagnosing Organisational Performance and Leading Institutional Transformation",
+      "front": "What is the McKinsey 7S Model?",
+      "back": "A framework for diagnosing organisational performance through seven interrelated elements."
+    },
+    {
+      "id": "M12-Q03",
+      "module_number": 12,
+      "module": "Module 12 – Diagnosing Organisational Performance and Leading Institutional Transformation",
+      "front": "List the seven elements of McKinsey 7S.",
+      "back": "Strategy; Structure; Systems; Staff; Skills; Style; Shared Values."
+    },
+    {
+      "id": "M12-Q04",
+      "module_number": 12,
+      "module": "Module 12 – Diagnosing Organisational Performance and Leading Institutional Transformation",
+      "front": "What is Strategy in the 7S Model?",
+      "back": "The plan or direction for achieving organisational objectives."
+    },
+    {
+      "id": "M12-Q05",
+      "module_number": 12,
+      "module": "Module 12 – Diagnosing Organisational Performance and Leading Institutional Transformation",
+      "front": "What is Structure in the 7S Model?",
+      "back": "The arrangement of roles, responsibilities and reporting relationships."
+    },
+    {
+      "id": "M12-Q06",
+      "module_number": 12,
+      "module": "Module 12 – Diagnosing Organisational Performance and Leading Institutional Transformation",
+      "front": "What are Systems in the 7S Model?",
+      "back": "The processes and procedures through which routine activities are performed."
+    },
+    {
+      "id": "M12-Q07",
+      "module_number": 12,
+      "module": "Module 12 – Diagnosing Organisational Performance and Leading Institutional Transformation",
+      "front": "What does Staff refer to in the 7S Model?",
+      "back": "The people within the organisation and their deployment."
+    },
+    {
+      "id": "M12-Q08",
+      "module_number": 12,
+      "module": "Module 12 – Diagnosing Organisational Performance and Leading Institutional Transformation",
+      "front": "What do Skills refer to in the 7S Model?",
+      "back": "The capabilities and competencies possessed by personnel and the organisation."
+    },
+    {
+      "id": "M12-Q09",
+      "module_number": 12,
+      "module": "Module 12 – Diagnosing Organisational Performance and Leading Institutional Transformation",
+      "front": "What does Style mean in the 7S Model?",
+      "back": "The leadership and management approach used within the organisation."
+    },
+    {
+      "id": "M12-Q10",
+      "module_number": 12,
+      "module": "Module 12 – Diagnosing Organisational Performance and Leading Institutional Transformation",
+      "front": "What are Shared Values in the 7S Model?",
+      "back": "The core beliefs and guiding principles shared across the organisation."
+    },
+    {
+      "id": "M12-Q11",
+      "module_number": 12,
+      "module": "Module 12 – Diagnosing Organisational Performance and Leading Institutional Transformation",
+      "front": "Why are the seven elements interrelated?",
+      "back": "A change in one element can affect the effectiveness of the others."
+    },
+    {
+      "id": "M12-Q12",
+      "module_number": 12,
+      "module": "Module 12 – Diagnosing Organisational Performance and Leading Institutional Transformation",
+      "front": "Why should organisational diagnosis precede transformation?",
+      "back": "It establishes actual weaknesses and prevents superficial or misdirected interventions."
+    },
+    {
+      "id": "M12-Q13",
+      "module_number": 12,
+      "module": "Module 12 – Diagnosing Organisational Performance and Leading Institutional Transformation",
+      "front": "What is the danger of changing structure without examining systems?",
+      "back": "New reporting arrangements may not solve process failures or operational inefficiencies."
+    },
+    {
+      "id": "M12-Q14",
+      "module_number": 12,
+      "module": "Module 12 – Diagnosing Organisational Performance and Leading Institutional Transformation",
+      "front": "How can a skills gap affect organisational performance?",
+      "back": "Personnel may lack the capabilities required to implement strategy and perform tasks effectively."
+    },
+    {
+      "id": "M12-Q15",
+      "module_number": 12,
+      "module": "Module 12 – Diagnosing Organisational Performance and Leading Institutional Transformation",
+      "front": "How does leadership style influence transformation?",
+      "back": "Leadership behaviour shapes communication, trust, accountability and willingness to change."
+    },
+    {
+      "id": "M12-Q16",
+      "module_number": 12,
+      "module": "Module 12 – Diagnosing Organisational Performance and Leading Institutional Transformation",
+      "front": "Why are shared values important during institutional change?",
+      "back": "They provide common principles that guide behaviour and sustain organisational alignment."
+    },
+    {
+      "id": "M12-Q17",
+      "module_number": 12,
+      "module": "Module 12 – Diagnosing Organisational Performance and Leading Institutional Transformation",
+      "front": "What is the relationship between strategy and structure?",
+      "back": "Structure should support the strategy and enable responsibilities needed to achieve objectives."
+    },
+    {
+      "id": "M12-Q18",
+      "module_number": 12,
+      "module": "Module 12 – Diagnosing Organisational Performance and Leading Institutional Transformation",
+      "front": "Why must transformation be sustainable?",
+      "back": "Improvements must endure and become embedded in organisational practice."
+    },
+    {
+      "id": "M12-Q19",
+      "module_number": 12,
+      "module": "Module 12 – Diagnosing Organisational Performance and Leading Institutional Transformation",
+      "front": "What is the role of communication in institutional transformation?",
+      "back": "It explains the need for change, expectations, responsibilities and progress."
+    },
+    {
+      "id": "M12-Q20",
+      "module_number": 12,
+      "module": "Module 12 – Diagnosing Organisational Performance and Leading Institutional Transformation",
+      "front": "Why is stakeholder involvement important in transformation?",
+      "back": "It builds ownership, surfaces practical concerns and supports implementation."
+    },
+    {
+      "id": "M12-Q21",
+      "module_number": 12,
+      "module": "Module 12 – Diagnosing Organisational Performance and Leading Institutional Transformation",
+      "front": "What is resistance to change?",
+      "back": "Reluctance or opposition to adopting new practices, structures or behaviours."
+    },
+    {
+      "id": "M12-Q22",
+      "module_number": 12,
+      "module": "Module 12 – Diagnosing Organisational Performance and Leading Institutional Transformation",
+      "front": "How should leaders address resistance to change?",
+      "back": "Explain the rationale, engage personnel, provide support and monitor implementation."
+    },
+    {
+      "id": "M12-Q23",
+      "module_number": 12,
+      "module": "Module 12 – Diagnosing Organisational Performance and Leading Institutional Transformation",
+      "front": "What is the purpose of performance indicators in transformation?",
+      "back": "Measure progress and show whether intended improvements are being achieved."
+    },
+    {
+      "id": "M12-Q24",
+      "module_number": 12,
+      "module": "Module 12 – Diagnosing Organisational Performance and Leading Institutional Transformation",
+      "front": "Why must transformation be monitored and reviewed?",
+      "back": "Monitoring identifies progress, obstacles and adjustments needed to sustain improvement."
+    },
+    {
+      "id": "M12-Q25",
+      "module_number": 12,
+      "module": "Module 12 – Diagnosing Organisational Performance and Leading Institutional Transformation",
+      "front": "What is the ultimate aim of institutional transformation?",
+      "back": "Improve organisational performance and develop a more effective, coherent and sustainable military unit."
+    }
+  ]
+}
