@@ -59,6 +59,29 @@
       <button id="revealBtn" class="primary">Reveal answer</button>
     </div>
 
+    <section class="autoplay-panel" aria-label="Automatic flashcard playback">
+      <div class="autoplay-heading">
+        <div><h2>Audio &amp; continuous play</h2><p>Listen to each question, then its answer, as the cards advance.</p></div>
+        <span class="audio-indicator" id="audioStatus">Audio ready</span>
+      </div>
+      <div class="playback-buttons">
+        <button id="playAllBtn" class="play-btn">▶ Play all cards</button>
+        <button id="playModuleBtn" class="play-btn secondary">▶ Play this module</button>
+      </div>
+      <div class="playback-buttons compact">
+        <button id="pauseBtn" class="control-btn" disabled>Ⅱ Pause</button>
+        <button id="stopBtn" class="control-btn" disabled>■ Stop</button>
+        <button id="audioToggleBtn" class="control-btn" aria-pressed="true">🔊 Audio on</button>
+      </div>
+      <div class="audio-settings">
+        <label for="voiceSelect">Speech voice</label>
+        <select id="voiceSelect" aria-label="Speech voice"><option value="">Default English voice</option></select>
+        <label for="speedSelect">Speaking speed</label>
+        <select id="speedSelect"><option value="0.75">0.75× Slow</option><option value="0.9">0.9×</option><option value="1" selected>1× Normal</option><option value="1.15">1.15×</option><option value="1.3">1.3×</option></select>
+      </div>
+      <p class="playback-note" id="playbackNote" aria-live="polite">Choose Play All or Play This Module to begin.</p>
+    </section>
+
     <section class="rating-row" id="ratingRow" hidden>
       <button id="missedBtn" class="rating missed">× Need to review</button>
       <button id="knownBtn" class="rating known">✓ I knew it</button>
@@ -87,7 +110,7 @@
     <section class="help">
       <h2>How to use</h2>
       <p>Read the question, try to answer from memory, then reveal the answer. Mark each card as known or needing review. Your progress is saved on this device.</p>
-      <p class="small">This app works offline after its first successful load. Progress is stored locally and is not automatically synchronised between devices.</p>
+      <p class="small">This app works offline after its first successful load. Progress is stored locally and is not automatically synchronised between devices. Audio uses voices available in your browser/device; on Chrome, choose a Google voice if one is listed.</p>
     </section>
   </main>
 

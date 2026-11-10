@@ -34,6 +34,21 @@ button{font:inherit;cursor:pointer;border:0}
 .rating{padding:12px 8px;border-radius:11px;font-size:13px;font-weight:700}
 .missed{background:#fff0ed;color:#a33c2b;border:1px solid #f0c5bd}
 .known{background:#eaf6ef;color:#216b42;border:1px solid #c3e5d0}
+.autoplay-panel{margin:20px 0;padding:17px;background:#fff;border:1px solid var(--line);border-radius:15px;box-shadow:0 5px 18px #1a33450a}
+.autoplay-heading{display:flex;align-items:flex-start;justify-content:space-between;gap:12px;margin-bottom:14px}
+.autoplay-heading h2{font-size:16px;margin:0 0 4px;color:var(--navy)}
+.autoplay-heading p{font-size:12px;line-height:1.45;color:var(--muted);margin:0}
+.audio-indicator{white-space:nowrap;font-size:10px;font-weight:750;color:#216b42;background:#eaf6ef;padding:6px 8px;border-radius:99px}
+.playback-buttons{display:grid;grid-template-columns:1fr 1fr;gap:9px;margin:9px 0}
+.play-btn,.control-btn{padding:12px 9px;border-radius:10px;font-size:13px;font-weight:750;background:var(--navy);color:#fff}
+.play-btn.secondary{background:#eaf3f9;color:var(--blue);border:1px solid #cbdce8}
+.playback-buttons.compact{grid-template-columns:repeat(3,1fr)}
+.control-btn{background:#f1f4f7;color:var(--ink);border:1px solid var(--line);font-size:12px}
+button:disabled{opacity:.45;cursor:not-allowed}
+.audio-settings{display:grid;grid-template-columns:1fr 1.5fr;gap:8px 12px;align-items:center;margin-top:14px}
+.audio-settings label{font-size:12px;color:var(--muted);font-weight:700}
+.audio-settings select{grid-column:auto;padding:9px;font-size:12px}
+.playback-note{font-size:11px;color:var(--muted);margin:12px 0 0;min-height:16px}
 .navigation{display:flex;gap:10px;margin-top:14px}
 .nav-btn{flex:1;padding:13px;border-radius:11px;background:white;border:1px solid var(--line);color:var(--ink);font-weight:700}
 .nav-btn.next{background:var(--navy);color:white;border-color:var(--navy)}
@@ -47,4 +62,5 @@ button{font:inherit;cursor:pointer;border:0}
 .help p{font-size:13px;line-height:1.55;margin:6px 0}
 .help .small{font-size:11px;color:#667789}
 footer{text-align:center;color:#8090a0;font-size:11px;padding:18px}
+@media(max-width:420px){.autoplay-heading{display:block}.audio-indicator{display:inline-block;margin-top:8px}.playback-buttons{grid-template-columns:1fr}.playback-buttons.compact{grid-template-columns:repeat(3,1fr)}}
 @media(min-width:620px){.app{padding-top:28px}.toolbar{grid-template-columns:150px 1fr auto}.module-label{grid-column:1}.toolbar select{grid-column:2}.toolbar-actions{grid-column:3}.card{min-height:340px;padding:26px}.card-content{padding:40px 12px}}
