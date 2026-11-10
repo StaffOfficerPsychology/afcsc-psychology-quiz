@@ -1,0 +1,8 @@
+{
+  "name": "AFCSC Staff Effectiveness Revision",
+  "short_name": "AFCSC Revision",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3f5f8",
+  "theme_color": "#172b4d"
+}

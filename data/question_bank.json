@@ -1,0 +1,1645 @@
+{
+  "title": "AFCSC Senior Course 48 – Staff Effectiveness and Related Lectures",
+  "source_basis": "Based on the supplied AFCSC Senior Course 48 lecture presentations and quiz/practice documents on Staff Officer effectiveness, Command Without Command, Power/Privilege/Restraint, Military as a Managed System, Systems Thinking, National Security Architecture, Situational Awareness, Human Foundations and Emotional Discipline. Wording is source-led; editorially improved stems and distractors are identified in the audit notes.",
+  "counts": {
+    "multiple_choice": 60,
+    "true_false": 60,
+    "fill_in_gap": 60,
+    "total": 180
+  },
+  "phases": {
+    "multiple_choice": [
+      {
+        "id": "MCQ001",
+        "topic": "Staff Officer",
+        "question": "Which statement is most accurate about staff officer?",
+        "options": {
+          "A": "Administrative governance maintains efficiency, accountability and compliance.",
+          "B": "The four pillars are mindset, ethics, systems thinking and situational mastery.",
+          "C": "Anticipation means thinking ahead and foreseeing emerging requirements.",
+          "D": "A staff officer supports, advises, coordinates and enables command."
+        },
+        "answer": "D",
+        "explanation": "A staff officer supports, advises, coordinates and enables command. This is the source-supported proposition being tested."
+      },
+      {
+        "id": "MCQ002",
+        "topic": "Staff Officer",
+        "question": "Which statement is most accurate about staff officer?",
+        "options": {
+          "A": "Anticipation means thinking ahead and foreseeing emerging requirements.",
+          "B": "Attention to detail recognises that small errors can have operational consequences.",
+          "C": "Decision support includes interpreting command intent, managing information and analysing options.",
+          "D": "The four pillars are mindset, ethics, systems thinking and situational mastery."
+        },
+        "answer": "C",
+        "explanation": "Decision support includes interpreting command intent, managing information and analysing options. This is the source-supported proposition being tested."
+      },
+      {
+        "id": "MCQ003",
+        "topic": "Staff Officer",
+        "question": "Which statement is most accurate about staff officer?",
+        "options": {
+          "A": "Situational mastery requires awareness, adaptability, timely judgement, prioritisation and foresight.",
+          "B": "Administrative governance maintains efficiency, accountability and compliance.",
+          "C": "Anticipation means thinking ahead and foreseeing emerging requirements.",
+          "D": "Attention to detail recognises that small errors can have operational consequences."
+        },
+        "answer": "B",
+        "explanation": "Administrative governance maintains efficiency, accountability and compliance. This is the source-supported proposition being tested."
+      },
+      {
+        "id": "MCQ004",
+        "topic": "Staff Officer",
+        "question": "Which statement is most accurate about staff officer?",
+        "options": {
+          "A": "The four pillars are mindset, ethics, systems thinking and situational mastery.",
+          "B": "Attention to detail recognises that small errors can have operational consequences.",
+          "C": "Situational mastery requires awareness, adaptability, timely judgement, prioritisation and foresight.",
+          "D": "A staff officer supports, advises, coordinates and enables command."
+        },
+        "answer": "A",
+        "explanation": "The four pillars are mindset, ethics, systems thinking and situational mastery. This is the source-supported proposition being tested."
+      },
+      {
+        "id": "MCQ005",
+        "topic": "Staff Officer",
+        "question": "Which statement is most accurate about staff officer?",
+        "options": {
+          "A": "A staff officer supports, advises, coordinates and enables command.",
+          "B": "Decision support includes interpreting command intent, managing information and analysing options.",
+          "C": "Anticipation means thinking ahead and foreseeing emerging requirements.",
+          "D": "Situational mastery requires awareness, adaptability, timely judgement, prioritisation and foresight."
+        },
+        "answer": "C",
+        "explanation": "Anticipation means thinking ahead and foreseeing emerging requirements. This is the source-supported proposition being tested."
+      },
+      {
+        "id": "MCQ006",
+        "topic": "Staff Officer",
+        "question": "Which statement is most accurate about staff officer?",
+        "options": {
+          "A": "A staff officer supports, advises, coordinates and enables command.",
+          "B": "Decision support includes interpreting command intent, managing information and analysing options.",
+          "C": "Administrative governance maintains efficiency, accountability and compliance.",
+          "D": "Attention to detail recognises that small errors can have operational consequences."
+        },
+        "answer": "D",
+        "explanation": "Attention to detail recognises that small errors can have operational consequences. This is the source-supported proposition being tested."
+      },
+      {
+        "id": "MCQ007",
+        "topic": "Staff Officer",
+        "question": "Which statement is most accurate about staff officer?",
+        "options": {
+          "A": "The four pillars are mindset, ethics, systems thinking and situational mastery.",
+          "B": "Situational mastery requires awareness, adaptability, timely judgement, prioritisation and foresight.",
+          "C": "Decision support includes interpreting command intent, managing information and analysing options.",
+          "D": "Administrative governance maintains efficiency, accountability and compliance."
+        },
+        "answer": "B",
+        "explanation": "Situational mastery requires awareness, adaptability, timely judgement, prioritisation and foresight. This is the source-supported proposition being tested."
+      },
+      {
+        "id": "MCQ008",
+        "topic": "C4I",
+        "question": "Which statement is most accurate about c4i?",
+        "options": {
+          "A": "Staff officers support command through planning, coordination, information management, communication and decision support.",
+          "B": "Anger is not the same as aggression.",
+          "C": "Aristotle’s five tests of anger concern the right person, reason, time, degree and manner.",
+          "D": "The five dimensions of emotional intelligence are self-awareness, self-regulation, motivation, empathy and social skills."
+        },
+        "answer": "A",
+        "explanation": "Staff officers support command through planning, coordination, information management, communication and decision support. This is the source-supported proposition being tested."
+      },
+      {
+        "id": "MCQ009",
+        "topic": "C4I",
+        "question": "Which statement is most accurate about c4i?",
+        "options": {
+          "A": "Anticipation means thinking ahead and foreseeing emerging requirements.",
+          "B": "Attention to detail recognises that small errors can have operational consequences.",
+          "C": "Situational mastery requires awareness, adaptability, timely judgement, prioritisation and foresight.",
+          "D": "The staff officer strengthens command rather than competing with it."
+        },
+        "answer": "D",
+        "explanation": "The staff officer strengthens command rather than competing with it. This is the source-supported proposition being tested."
+      },
+      {
+        "id": "MCQ010",
+        "topic": "C4I",
+        "question": "Which statement is most accurate about c4i?",
+        "options": {
+          "A": "Military power is never owned; it is temporarily entrusted for responsible service.",
+          "B": "Privileges support effective service delivery and are not rewards for personal superiority.",
+          "C": "Poor control creates surprises, confusion, wastage and embarrassment.",
+          "D": "Neutrality bases recommendations on facts, merit and operational requirements."
+        },
+        "answer": "C",
+        "explanation": "Poor control creates surprises, confusion, wastage and embarrassment. This is the source-supported proposition being tested."
+      },
+      {
+        "id": "MCQ011",
+        "topic": "Ethics and Leadership",
+        "question": "Which statement is most accurate about ethics and leadership?",
+        "options": {
+          "A": "Military standards are critical because the profession of arms directly involves human lives.",
+          "B": "Systems thinking sees wholes, patterns and interrelationships rather than isolated events.",
+          "C": "The seven disabilities are I am my position; the enemy is out there; fixation on events; delusion of learning from experience; illusion of taking charge; boiled frog; myth of the management team.",
+          "D": "Leadership influences people and improves organisations through competence, character, professionalism and moral example."
+        },
+        "answer": "D",
+        "explanation": "Leadership influences people and improves organisations through competence, character, professionalism and moral example. This is the source-supported proposition being tested."
+      },
+      {
+        "id": "MCQ012",
+        "topic": "Ethics and Leadership",
+        "question": "Which statement is most accurate about ethics and leadership?",
+        "options": {
+          "A": "Inputs are policies; processes convert inputs to outputs; outputs are procedures; feedback is review.",
+          "B": "General Systems Theory views an entity as an integrated whole of interconnected parts.",
+          "C": "Confidentiality means keeping official and sensitive information secret.",
+          "D": "A managed system is a structured set of policies, processes and procedures guiding activities towards missions and objectives."
+        },
+        "answer": "C",
+        "explanation": "Confidentiality means keeping official and sensitive information secret. This is the source-supported proposition being tested."
+      },
+      {
+        "id": "MCQ013",
+        "topic": "Ethics and Leadership",
+        "question": "Which statement is most accurate about ethics and leadership?",
+        "options": {
+          "A": "National security architecture includes political leadership, the military, security and intelligence agencies, civil-military relations and inter-agency coordination.",
+          "B": "Neutrality bases recommendations on facts, merit and operational requirements.",
+          "C": "Weak intelligence can undermine military strength.",
+          "D": "Contemporary security threats require multidimensional solutions."
+        },
+        "answer": "B",
+        "explanation": "Neutrality bases recommendations on facts, merit and operational requirements. This is the source-supported proposition being tested."
+      },
+      {
+        "id": "MCQ014",
+        "topic": "Power and Authority",
+        "question": "Which statement is most accurate about power and authority?",
+        "options": {
+          "A": "Military power is never owned; it is temporarily entrusted for responsible service.",
+          "B": "Power abuse can cause low morale and damage public trust.",
+          "C": "Privileges support effective service delivery and are not rewards for personal superiority.",
+          "D": "Abuse of access may involve using government resources or personnel for personal benefit."
+        },
+        "answer": "A",
+        "explanation": "Military power is never owned; it is temporarily entrusted for responsible service. This is the source-supported proposition being tested."
+      },
+      {
+        "id": "MCQ015",
+        "topic": "Power and Authority",
+        "question": "Which statement is most accurate about power and authority?",
+        "options": {
+          "A": "Abuse of access may involve using government resources or personnel for personal benefit.",
+          "B": "Power abuse can cause low morale and damage public trust.",
+          "C": "Privileges support effective service delivery and are not rewards for personal superiority.",
+          "D": "Military power is never owned; it is temporarily entrusted for responsible service."
+        },
+        "answer": "C",
+        "explanation": "Privileges support effective service delivery and are not rewards for personal superiority. This is the source-supported proposition being tested."
+      },
+      {
+        "id": "MCQ016",
+        "topic": "Power and Authority",
+        "question": "Which statement is most accurate about power and authority?",
+        "options": {
+          "A": "Privileges support effective service delivery and are not rewards for personal superiority.",
+          "B": "Power abuse can cause low morale and damage public trust.",
+          "C": "Military power is never owned; it is temporarily entrusted for responsible service.",
+          "D": "Abuse of access may involve using government resources or personnel for personal benefit."
+        },
+        "answer": "D",
+        "explanation": "Abuse of access may involve using government resources or personnel for personal benefit. This is the source-supported proposition being tested."
+      },
+      {
+        "id": "MCQ017",
+        "topic": "Power and Authority",
+        "question": "Which statement is most accurate about power and authority?",
+        "options": {
+          "A": "Privileges support effective service delivery and are not rewards for personal superiority.",
+          "B": "Power abuse can cause low morale and damage public trust.",
+          "C": "Abuse of access may involve using government resources or personnel for personal benefit.",
+          "D": "Military power is never owned; it is temporarily entrusted for responsible service."
+        },
+        "answer": "B",
+        "explanation": "Power abuse can cause low morale and damage public trust. This is the source-supported proposition being tested."
+      },
+      {
+        "id": "MCQ018",
+        "topic": "Culture of Standards",
+        "question": "Which statement is most accurate about culture of standards?",
+        "options": {
+          "A": "Standards are established levels of quality, procedures, conduct, performance or expectations.",
+          "B": "The staff officer strengthens command rather than competing with it.",
+          "C": "Poor control creates surprises, confusion, wastage and embarrassment.",
+          "D": "Leadership influences people and improves organisations through competence, character, professionalism and moral example."
+        },
+        "answer": "A",
+        "explanation": "Standards are established levels of quality, procedures, conduct, performance or expectations. This is the source-supported proposition being tested."
+      },
+      {
+        "id": "MCQ019",
+        "topic": "Culture of Standards",
+        "question": "Which statement is most accurate about culture of standards?",
+        "options": {
+          "A": "Abuse of access may involve using government resources or personnel for personal benefit.",
+          "B": "Power abuse can cause low morale and damage public trust.",
+          "C": "Standards are established levels of quality, procedures, conduct, performance or expectations.",
+          "D": "Standards promote consistency, predictability, reliability and excellence."
+        },
+        "answer": "D",
+        "explanation": "Standards promote consistency, predictability, reliability and excellence. This is the source-supported proposition being tested."
+      },
+      {
+        "id": "MCQ020",
+        "topic": "Culture of Standards",
+        "question": "Which statement is most accurate about culture of standards?",
+        "options": {
+          "A": "Senge's five disciplines are personal mastery, mental models, shared vision, team learning and systems thinking.",
+          "B": "Event explanations ask who did what; pattern explanations examine trends; structural explanations identify underlying causes.",
+          "C": "Military standards are critical because the profession of arms directly involves human lives.",
+          "D": "The boiled frog describes failure to notice gradual changes until it is too late."
+        },
+        "answer": "C",
+        "explanation": "Military standards are critical because the profession of arms directly involves human lives. This is the source-supported proposition being tested."
+      },
+      {
+        "id": "MCQ021",
+        "topic": "Systems Thinking",
+        "question": "Which statement is most accurate about systems thinking?",
+        "options": {
+          "A": "The boiled frog describes failure to notice gradual changes until it is too late.",
+          "B": "Senge's five disciplines are personal mastery, mental models, shared vision, team learning and systems thinking.",
+          "C": "Event explanations ask who did what; pattern explanations examine trends; structural explanations identify underlying causes.",
+          "D": "Systems thinking sees wholes, patterns and interrelationships rather than isolated events."
+        },
+        "answer": "D",
+        "explanation": "Systems thinking sees wholes, patterns and interrelationships rather than isolated events. This is the source-supported proposition being tested."
+      },
+      {
+        "id": "MCQ022",
+        "topic": "Systems Thinking",
+        "question": "Which statement is most accurate about systems thinking?",
+        "options": {
+          "A": "Systems thinking sees wholes, patterns and interrelationships rather than isolated events.",
+          "B": "Fixation on events is tactical near-sightedness that treats events as disconnected moments.",
+          "C": "The seven disabilities are I am my position; the enemy is out there; fixation on events; delusion of learning from experience; illusion of taking charge; boiled frog; myth of the management team.",
+          "D": "Event explanations ask who did what; pattern explanations examine trends; structural explanations identify underlying causes."
+        },
+        "answer": "C",
+        "explanation": "The seven disabilities are I am my position; the enemy is out there; fixation on events; delusion of learning from experience; illusion of taking charge; boiled frog; myth of the management team. This is the source-supported proposition being tested."
+      },
+      {
+        "id": "MCQ023",
+        "topic": "Systems Thinking",
+        "question": "Which statement is most accurate about systems thinking?",
+        "options": {
+          "A": "Senge's five disciplines are personal mastery, mental models, shared vision, team learning and systems thinking.",
+          "B": "Fixation on events is tactical near-sightedness that treats events as disconnected moments.",
+          "C": "The seven disabilities are I am my position; the enemy is out there; fixation on events; delusion of learning from experience; illusion of taking charge; boiled frog; myth of the management team.",
+          "D": "The boiled frog describes failure to notice gradual changes until it is too late."
+        },
+        "answer": "B",
+        "explanation": "Fixation on events is tactical near-sightedness that treats events as disconnected moments. This is the source-supported proposition being tested."
+      },
+      {
+        "id": "MCQ024",
+        "topic": "Systems Thinking",
+        "question": "Which statement is most accurate about systems thinking?",
+        "options": {
+          "A": "The boiled frog describes failure to notice gradual changes until it is too late.",
+          "B": "Senge's five disciplines are personal mastery, mental models, shared vision, team learning and systems thinking.",
+          "C": "Event explanations ask who did what; pattern explanations examine trends; structural explanations identify underlying causes.",
+          "D": "Systems thinking sees wholes, patterns and interrelationships rather than isolated events."
+        },
+        "answer": "A",
+        "explanation": "The boiled frog describes failure to notice gradual changes until it is too late. This is the source-supported proposition being tested."
+      },
+      {
+        "id": "MCQ025",
+        "topic": "Systems Thinking",
+        "question": "Which statement is most accurate about systems thinking?",
+        "options": {
+          "A": "The seven disabilities are I am my position; the enemy is out there; fixation on events; delusion of learning from experience; illusion of taking charge; boiled frog; myth of the management team.",
+          "B": "Fixation on events is tactical near-sightedness that treats events as disconnected moments.",
+          "C": "Senge's five disciplines are personal mastery, mental models, shared vision, team learning and systems thinking.",
+          "D": "Systems thinking sees wholes, patterns and interrelationships rather than isolated events."
+        },
+        "answer": "C",
+        "explanation": "Senge's five disciplines are personal mastery, mental models, shared vision, team learning and systems thinking. This is the source-supported proposition being tested."
+      },
+      {
+        "id": "MCQ026",
+        "topic": "Systems Thinking",
+        "question": "Which statement is most accurate about systems thinking?",
+        "options": {
+          "A": "Fixation on events is tactical near-sightedness that treats events as disconnected moments.",
+          "B": "The boiled frog describes failure to notice gradual changes until it is too late.",
+          "C": "Senge's five disciplines are personal mastery, mental models, shared vision, team learning and systems thinking.",
+          "D": "Event explanations ask who did what; pattern explanations examine trends; structural explanations identify underlying causes."
+        },
+        "answer": "D",
+        "explanation": "Event explanations ask who did what; pattern explanations examine trends; structural explanations identify underlying causes. This is the source-supported proposition being tested."
+      },
+      {
+        "id": "MCQ027",
+        "topic": "Managed System",
+        "question": "Which statement is most accurate about managed system?",
+        "options": {
+          "A": "General Systems Theory views an entity as an integrated whole of interconnected parts.",
+          "B": "A managed system is a structured set of policies, processes and procedures guiding activities towards missions and objectives.",
+          "C": "Team of Teams blends traditional military discipline with decentralised network agility.",
+          "D": "Inputs are policies; processes convert inputs to outputs; outputs are procedures; feedback is review."
+        },
+        "answer": "B",
+        "explanation": "A managed system is a structured set of policies, processes and procedures guiding activities towards missions and objectives. This is the source-supported proposition being tested."
+      },
+      {
+        "id": "MCQ028",
+        "topic": "Managed System",
+        "question": "Which statement is most accurate about managed system?",
+        "options": {
+          "A": "Inputs are policies; processes convert inputs to outputs; outputs are procedures; feedback is review.",
+          "B": "General Systems Theory views an entity as an integrated whole of interconnected parts.",
+          "C": "An open system exchanges information, energy and matter with its environment.",
+          "D": "Mechanistic organisations emphasise efficiency, predictability, control, centralisation and formal rules."
+        },
+        "answer": "A",
+        "explanation": "Inputs are policies; processes convert inputs to outputs; outputs are procedures; feedback is review. This is the source-supported proposition being tested."
+      },
+      {
+        "id": "MCQ029",
+        "topic": "Managed System",
+        "question": "Which statement is most accurate about managed system?",
+        "options": {
+          "A": "Mechanistic organisations emphasise efficiency, predictability, control, centralisation and formal rules.",
+          "B": "Team of Teams blends traditional military discipline with decentralised network agility.",
+          "C": "A managed system is a structured set of policies, processes and procedures guiding activities towards missions and objectives.",
+          "D": "General Systems Theory views an entity as an integrated whole of interconnected parts."
+        },
+        "answer": "D",
+        "explanation": "General Systems Theory views an entity as an integrated whole of interconnected parts. This is the source-supported proposition being tested."
+      },
+      {
+        "id": "MCQ030",
+        "topic": "Managed System",
+        "question": "Which statement is most accurate about managed system?",
+        "options": {
+          "A": "Inputs are policies; processes convert inputs to outputs; outputs are procedures; feedback is review.",
+          "B": "General Systems Theory views an entity as an integrated whole of interconnected parts.",
+          "C": "An open system exchanges information, energy and matter with its environment.",
+          "D": "A managed system is a structured set of policies, processes and procedures guiding activities towards missions and objectives."
+        },
+        "answer": "C",
+        "explanation": "An open system exchanges information, energy and matter with its environment. This is the source-supported proposition being tested."
+      },
+      {
+        "id": "MCQ031",
+        "topic": "Managed System",
+        "question": "Which statement is most accurate about managed system?",
+        "options": {
+          "A": "General Systems Theory views an entity as an integrated whole of interconnected parts.",
+          "B": "An open system exchanges information, energy and matter with its environment.",
+          "C": "Team of Teams blends traditional military discipline with decentralised network agility.",
+          "D": "Mechanistic organisations emphasise efficiency, predictability, control, centralisation and formal rules."
+        },
+        "answer": "D",
+        "explanation": "Mechanistic organisations emphasise efficiency, predictability, control, centralisation and formal rules. This is the source-supported proposition being tested."
+      },
+      {
+        "id": "MCQ032",
+        "topic": "Managed System",
+        "question": "Which statement is most accurate about managed system?",
+        "options": {
+          "A": "A managed system is a structured set of policies, processes and procedures guiding activities towards missions and objectives.",
+          "B": "Inputs are policies; processes convert inputs to outputs; outputs are procedures; feedback is review.",
+          "C": "Team of Teams blends traditional military discipline with decentralised network agility.",
+          "D": "Mechanistic organisations emphasise efficiency, predictability, control, centralisation and formal rules."
+        },
+        "answer": "C",
+        "explanation": "Team of Teams blends traditional military discipline with decentralised network agility. This is the source-supported proposition being tested."
+      },
+      {
+        "id": "MCQ033",
+        "topic": "National Security",
+        "question": "Which statement is most accurate about national security?",
+        "options": {
+          "A": "National security architecture includes political leadership, the military, security and intelligence agencies, civil-military relations and inter-agency coordination.",
+          "B": "National security is not the exclusive responsibility of the Armed Forces.",
+          "C": "Weak intelligence can undermine military strength.",
+          "D": "Contemporary security threats require multidimensional solutions."
+        },
+        "answer": "B",
+        "explanation": "National security is not the exclusive responsibility of the Armed Forces. This is the source-supported proposition being tested."
+      },
+      {
+        "id": "MCQ034",
+        "topic": "National Security",
+        "question": "Which statement is most accurate about national security?",
+        "options": {
+          "A": "Weak intelligence can undermine military strength.",
+          "B": "Contemporary security threats require multidimensional solutions.",
+          "C": "National security architecture includes political leadership, the military, security and intelligence agencies, civil-military relations and inter-agency coordination.",
+          "D": "National security is not the exclusive responsibility of the Armed Forces."
+        },
+        "answer": "A",
+        "explanation": "Weak intelligence can undermine military strength. This is the source-supported proposition being tested."
+      },
+      {
+        "id": "MCQ035",
+        "topic": "National Security",
+        "question": "Which statement is most accurate about national security?",
+        "options": {
+          "A": "National security is not the exclusive responsibility of the Armed Forces.",
+          "B": "Weak intelligence can undermine military strength.",
+          "C": "Contemporary security threats require multidimensional solutions.",
+          "D": "National security architecture includes political leadership, the military, security and intelligence agencies, civil-military relations and inter-agency coordination."
+        },
+        "answer": "C",
+        "explanation": "Contemporary security threats require multidimensional solutions. This is the source-supported proposition being tested."
+      },
+      {
+        "id": "MCQ036",
+        "topic": "National Security",
+        "question": "Which statement is most accurate about national security?",
+        "options": {
+          "A": "National security is not the exclusive responsibility of the Armed Forces.",
+          "B": "Weak intelligence can undermine military strength.",
+          "C": "Contemporary security threats require multidimensional solutions.",
+          "D": "National security architecture includes political leadership, the military, security and intelligence agencies, civil-military relations and inter-agency coordination."
+        },
+        "answer": "D",
+        "explanation": "National security architecture includes political leadership, the military, security and intelligence agencies, civil-military relations and inter-agency coordination. This is the source-supported proposition being tested."
+      },
+      {
+        "id": "MCQ037",
+        "topic": "Situational Awareness",
+        "question": "Which statement is most accurate about situational awareness?",
+        "options": {
+          "A": "Situational awareness extends to offices, headquarters, logistics hubs, workshops, stores, barracks and training institutions.",
+          "B": "Perception is noticing what is happening in the environment.",
+          "C": "A perceptive professional detects weak signals, anticipates consequences and warns command early.",
+          "D": "Situational awareness asks what is happening, why it is happening and what is likely next."
+        },
+        "answer": "B",
+        "explanation": "Perception is noticing what is happening in the environment. This is the source-supported proposition being tested."
+      },
+      {
+        "id": "MCQ038",
+        "topic": "Situational Awareness",
+        "question": "Which statement is most accurate about situational awareness?",
+        "options": {
+          "A": "Situational awareness asks what is happening, why it is happening and what is likely next.",
+          "B": "Ground-truth verification can expose discrepancies in reported information.",
+          "C": "Overreliance on reports can weaken situational awareness.",
+          "D": "Cross-functional awareness helps staff recognise effects across different functions."
+        },
+        "answer": "A",
+        "explanation": "Situational awareness asks what is happening, why it is happening and what is likely next. This is the source-supported proposition being tested."
+      },
+      {
+        "id": "MCQ039",
+        "topic": "Situational Awareness",
+        "question": "Which statement is most accurate about situational awareness?",
+        "options": {
+          "A": "Perception is noticing what is happening in the environment.",
+          "B": "Situational awareness asks what is happening, why it is happening and what is likely next.",
+          "C": "Effective staff officers detect patterns and anomalies, understand behaviour, identify risks and advise commanders.",
+          "D": "Situational awareness extends to offices, headquarters, logistics hubs, workshops, stores, barracks and training institutions."
+        },
+        "answer": "D",
+        "explanation": "Situational awareness extends to offices, headquarters, logistics hubs, workshops, stores, barracks and training institutions. This is the source-supported proposition being tested."
+      },
+      {
+        "id": "MCQ040",
+        "topic": "Situational Awareness",
+        "question": "Which statement is most accurate about situational awareness?",
+        "options": {
+          "A": "Cross-functional awareness helps staff recognise effects across different functions.",
+          "B": "Morale, leadership, discipline, stress and interpersonal relationships influence military effectiveness.",
+          "C": "Effective staff officers detect patterns and anomalies, understand behaviour, identify risks and advise commanders.",
+          "D": "Overreliance on reports can weaken situational awareness."
+        },
+        "answer": "C",
+        "explanation": "Effective staff officers detect patterns and anomalies, understand behaviour, identify risks and advise commanders. This is the source-supported proposition being tested."
+      },
+      {
+        "id": "MCQ041",
+        "topic": "Situational Awareness",
+        "question": "Which statement is most accurate about situational awareness?",
+        "options": {
+          "A": "Situational awareness asks what is happening, why it is happening and what is likely next.",
+          "B": "Situational awareness extends to offices, headquarters, logistics hubs, workshops, stores, barracks and training institutions.",
+          "C": "Effective staff officers detect patterns and anomalies, understand behaviour, identify risks and advise commanders.",
+          "D": "Routine can create complacency and normalise abnormal conditions."
+        },
+        "answer": "D",
+        "explanation": "Routine can create complacency and normalise abnormal conditions. This is the source-supported proposition being tested."
+      },
+      {
+        "id": "MCQ042",
+        "topic": "Situational Awareness",
+        "question": "Which statement is most accurate about situational awareness?",
+        "options": {
+          "A": "Morale, leadership, discipline, stress and interpersonal relationships influence military effectiveness.",
+          "B": "Staff officers should investigate anomalies rather than automatically treating them as routine.",
+          "C": "Confirmation bias favours information that supports existing beliefs.",
+          "D": "Cross-functional awareness helps staff recognise effects across different functions."
+        },
+        "answer": "C",
+        "explanation": "Confirmation bias favours information that supports existing beliefs. This is the source-supported proposition being tested."
+      },
+      {
+        "id": "MCQ043",
+        "topic": "Situational Awareness",
+        "question": "Which statement is most accurate about situational awareness?",
+        "options": {
+          "A": "Routine can create complacency and normalise abnormal conditions.",
+          "B": "Rank-induced isolation can weaken situational awareness by limiting information reaching senior leaders.",
+          "C": "Situational awareness extends to offices, headquarters, logistics hubs, workshops, stores, barracks and training institutions.",
+          "D": "Effective staff officers detect patterns and anomalies, understand behaviour, identify risks and advise commanders."
+        },
+        "answer": "B",
+        "explanation": "Rank-induced isolation can weaken situational awareness by limiting information reaching senior leaders. This is the source-supported proposition being tested."
+      },
+      {
+        "id": "MCQ044",
+        "topic": "Situational Awareness",
+        "question": "Which statement is most accurate about situational awareness?",
+        "options": {
+          "A": "Ground-truth verification can expose discrepancies in reported information.",
+          "B": "Morale, leadership, discipline, stress and interpersonal relationships influence military effectiveness.",
+          "C": "Staff officers should investigate anomalies rather than automatically treating them as routine.",
+          "D": "Leaders promote situational awareness by listening to junior observations and encouraging early reporting."
+        },
+        "answer": "A",
+        "explanation": "Ground-truth verification can expose discrepancies in reported information. This is the source-supported proposition being tested."
+      },
+      {
+        "id": "MCQ045",
+        "topic": "Situational Awareness",
+        "question": "Which statement is most accurate about situational awareness?",
+        "options": {
+          "A": "Routine can create complacency and normalise abnormal conditions.",
+          "B": "Confirmation bias favours information that supports existing beliefs.",
+          "C": "Overreliance on reports can weaken situational awareness.",
+          "D": "Effective staff officers detect patterns and anomalies, understand behaviour, identify risks and advise commanders."
+        },
+        "answer": "C",
+        "explanation": "Overreliance on reports can weaken situational awareness. This is the source-supported proposition being tested."
+      },
+      {
+        "id": "MCQ046",
+        "topic": "Situational Awareness",
+        "question": "Which statement is most accurate about situational awareness?",
+        "options": {
+          "A": "Staff officers should investigate anomalies rather than automatically treating them as routine.",
+          "B": "Leaders promote situational awareness by listening to junior observations and encouraging early reporting.",
+          "C": "A perceptive professional detects weak signals, anticipates consequences and warns command early.",
+          "D": "Cross-functional awareness helps staff recognise effects across different functions."
+        },
+        "answer": "D",
+        "explanation": "Cross-functional awareness helps staff recognise effects across different functions. This is the source-supported proposition being tested."
+      },
+      {
+        "id": "MCQ047",
+        "topic": "Situational Awareness",
+        "question": "Which statement is most accurate about situational awareness?",
+        "options": {
+          "A": "Rank-induced isolation can weaken situational awareness by limiting information reaching senior leaders.",
+          "B": "Morale, leadership, discipline, stress and interpersonal relationships influence military effectiveness.",
+          "C": "Routine can create complacency and normalise abnormal conditions.",
+          "D": "Confirmation bias favours information that supports existing beliefs."
+        },
+        "answer": "B",
+        "explanation": "Morale, leadership, discipline, stress and interpersonal relationships influence military effectiveness. This is the source-supported proposition being tested."
+      },
+      {
+        "id": "MCQ048",
+        "topic": "Situational Awareness",
+        "question": "Which statement is most accurate about situational awareness?",
+        "options": {
+          "A": "Staff officers should investigate anomalies rather than automatically treating them as routine.",
+          "B": "Leaders promote situational awareness by listening to junior observations and encouraging early reporting.",
+          "C": "A perceptive professional detects weak signals, anticipates consequences and warns command early.",
+          "D": "Perception is noticing what is happening in the environment."
+        },
+        "answer": "A",
+        "explanation": "Staff officers should investigate anomalies rather than automatically treating them as routine. This is the source-supported proposition being tested."
+      },
+      {
+        "id": "MCQ049",
+        "topic": "Situational Awareness",
+        "question": "Which statement is most accurate about situational awareness?",
+        "options": {
+          "A": "Confirmation bias favours information that supports existing beliefs.",
+          "B": "Rank-induced isolation can weaken situational awareness by limiting information reaching senior leaders.",
+          "C": "Ground-truth verification can expose discrepancies in reported information.",
+          "D": "Leaders promote situational awareness by listening to junior observations and encouraging early reporting."
+        },
+        "answer": "D",
+        "explanation": "Leaders promote situational awareness by listening to junior observations and encouraging early reporting. This is the source-supported proposition being tested."
+      },
+      {
+        "id": "MCQ050",
+        "topic": "Situational Awareness",
+        "question": "Which statement is most accurate about situational awareness?",
+        "options": {
+          "A": "Perception is noticing what is happening in the environment.",
+          "B": "Situational awareness asks what is happening, why it is happening and what is likely next.",
+          "C": "A perceptive professional detects weak signals, anticipates consequences and warns command early.",
+          "D": "Leaders promote situational awareness by listening to junior observations and encouraging early reporting."
+        },
+        "answer": "C",
+        "explanation": "A perceptive professional detects weak signals, anticipates consequences and warns command early. This is the source-supported proposition being tested."
+      },
+      {
+        "id": "MCQ051",
+        "topic": "Human Foundations",
+        "question": "Which statement is most accurate about human foundations?",
+        "options": {
+          "A": "An authority gradient is a perceived difference in seniority that can inhibit junior personnel from challenging seniors.",
+          "B": "Individual competence does not automatically guarantee team effectiveness.",
+          "C": "Effective teams require role clarity, shared understanding, coordination awareness and mutual trust.",
+          "D": "Psychological ownership means regarding an area of responsibility as one to safeguard, understand and advance."
+        },
+        "answer": "D",
+        "explanation": "Psychological ownership means regarding an area of responsibility as one to safeguard, understand and advance. This is the source-supported proposition being tested."
+      },
+      {
+        "id": "MCQ052",
+        "topic": "Human Foundations",
+        "question": "Which statement is most accurate about human foundations?",
+        "options": {
+          "A": "Effective teams require role clarity, shared understanding, coordination awareness and mutual trust.",
+          "B": "Psychological ownership means regarding an area of responsibility as one to safeguard, understand and advance.",
+          "C": "Anchoring occurs when judgement is disproportionately influenced by the first credible information.",
+          "D": "Individual competence does not automatically guarantee team effectiveness."
+        },
+        "answer": "C",
+        "explanation": "Anchoring occurs when judgement is disproportionately influenced by the first credible information. This is the source-supported proposition being tested."
+      },
+      {
+        "id": "MCQ053",
+        "topic": "Human Foundations",
+        "question": "Which statement is most accurate about human foundations?",
+        "options": {
+          "A": "Anchoring occurs when judgement is disproportionately influenced by the first credible information.",
+          "B": "Groupthink occurs when a cohesive group prioritises agreement over examining alternatives.",
+          "C": "Effective teams require role clarity, shared understanding, coordination awareness and mutual trust.",
+          "D": "Psychological ownership means regarding an area of responsibility as one to safeguard, understand and advance."
+        },
+        "answer": "B",
+        "explanation": "Groupthink occurs when a cohesive group prioritises agreement over examining alternatives. This is the source-supported proposition being tested."
+      },
+      {
+        "id": "MCQ054",
+        "topic": "Human Foundations",
+        "question": "Which statement is most accurate about human foundations?",
+        "options": {
+          "A": "Psychological safety allows personnel to raise concerns and challenge assumptions without humiliation or punishment merely for speaking professionally.",
+          "B": "Psychological ownership means regarding an area of responsibility as one to safeguard, understand and advance.",
+          "C": "Anchoring occurs when judgement is disproportionately influenced by the first credible information.",
+          "D": "Groupthink occurs when a cohesive group prioritises agreement over examining alternatives."
+        },
+        "answer": "A",
+        "explanation": "Psychological safety allows personnel to raise concerns and challenge assumptions without humiliation or punishment merely for speaking professionally. This is the source-supported proposition being tested."
+      },
+      {
+        "id": "MCQ055",
+        "topic": "Human Foundations",
+        "question": "Which statement is most accurate about human foundations?",
+        "options": {
+          "A": "Groupthink occurs when a cohesive group prioritises agreement over examining alternatives.",
+          "B": "Psychological safety allows personnel to raise concerns and challenge assumptions without humiliation or punishment merely for speaking professionally.",
+          "C": "An authority gradient is a perceived difference in seniority that can inhibit junior personnel from challenging seniors.",
+          "D": "Anchoring occurs when judgement is disproportionately influenced by the first credible information."
+        },
+        "answer": "C",
+        "explanation": "An authority gradient is a perceived difference in seniority that can inhibit junior personnel from challenging seniors. This is the source-supported proposition being tested."
+      },
+      {
+        "id": "MCQ056",
+        "topic": "Human Foundations",
+        "question": "Which statement is most accurate about human foundations?",
+        "options": {
+          "A": "Groupthink occurs when a cohesive group prioritises agreement over examining alternatives.",
+          "B": "Psychological safety allows personnel to raise concerns and challenge assumptions without humiliation or punishment merely for speaking professionally.",
+          "C": "An authority gradient is a perceived difference in seniority that can inhibit junior personnel from challenging seniors.",
+          "D": "Individual competence does not automatically guarantee team effectiveness."
+        },
+        "answer": "D",
+        "explanation": "Individual competence does not automatically guarantee team effectiveness. This is the source-supported proposition being tested."
+      },
+      {
+        "id": "MCQ057",
+        "topic": "Human Foundations",
+        "question": "Which statement is most accurate about human foundations?",
+        "options": {
+          "A": "Individual competence does not automatically guarantee team effectiveness.",
+          "B": "Effective teams require role clarity, shared understanding, coordination awareness and mutual trust.",
+          "C": "Psychological safety allows personnel to raise concerns and challenge assumptions without humiliation or punishment merely for speaking professionally.",
+          "D": "An authority gradient is a perceived difference in seniority that can inhibit junior personnel from challenging seniors."
+        },
+        "answer": "B",
+        "explanation": "Effective teams require role clarity, shared understanding, coordination awareness and mutual trust. This is the source-supported proposition being tested."
+      },
+      {
+        "id": "MCQ058",
+        "topic": "Emotional Discipline",
+        "question": "Which statement is most accurate about emotional discipline?",
+        "options": {
+          "A": "Anger is not the same as aggression.",
+          "B": "Groupthink occurs when a cohesive group prioritises agreement over examining alternatives.",
+          "C": "Psychological safety allows personnel to raise concerns and challenge assumptions without humiliation or punishment merely for speaking professionally.",
+          "D": "An authority gradient is a perceived difference in seniority that can inhibit junior personnel from challenging seniors."
+        },
+        "answer": "A",
+        "explanation": "Anger is not the same as aggression. This is the source-supported proposition being tested."
+      },
+      {
+        "id": "MCQ059",
+        "topic": "Emotional Discipline",
+        "question": "Which statement is most accurate about emotional discipline?",
+        "options": {
+          "A": "A staff officer supports, advises, coordinates and enables command.",
+          "B": "Decision support includes interpreting command intent, managing information and analysing options.",
+          "C": "Administrative governance maintains efficiency, accountability and compliance.",
+          "D": "Aristotle’s five tests of anger concern the right person, reason, time, degree and manner."
+        },
+        "answer": "D",
+        "explanation": "Aristotle’s five tests of anger concern the right person, reason, time, degree and manner. This is the source-supported proposition being tested."
+      },
+      {
+        "id": "MCQ060",
+        "topic": "Emotional Discipline",
+        "question": "Which statement is most accurate about emotional discipline?",
+        "options": {
+          "A": "The staff officer strengthens command rather than competing with it.",
+          "B": "Poor control creates surprises, confusion, wastage and embarrassment.",
+          "C": "The five dimensions of emotional intelligence are self-awareness, self-regulation, motivation, empathy and social skills.",
+          "D": "Staff officers support command through planning, coordination, information management, communication and decision support."
+        },
+        "answer": "C",
+        "explanation": "The five dimensions of emotional intelligence are self-awareness, self-regulation, motivation, empathy and social skills. This is the source-supported proposition being tested."
+      }
+    ],
+    "true_false": [
+      {
+        "id": "TF001",
+        "topic": "Staff Officer",
+        "question": "A staff officer supports, advises, coordinates and enables command.",
+        "answer": true,
+        "explanation": "True. A staff officer supports, advises, coordinates and enables command."
+      },
+      {
+        "id": "TF002",
+        "topic": "Staff Officer",
+        "question": "Decision support does not include interpreting command intent, managing information and analysing options.",
+        "answer": false,
+        "explanation": "False. The lecture material supports the following statement: Decision support includes interpreting command intent, managing information and analysing options."
+      },
+      {
+        "id": "TF003",
+        "topic": "Staff Officer",
+        "question": "Administrative governance maintains efficiency, accountability and compliance.",
+        "answer": true,
+        "explanation": "True. Administrative governance maintains efficiency, accountability and compliance."
+      },
+      {
+        "id": "TF004",
+        "topic": "Staff Officer",
+        "question": "The four pillars are not mindset, ethics, systems thinking and situational mastery.",
+        "answer": false,
+        "explanation": "False. The lecture material supports the following statement: The four pillars are mindset, ethics, systems thinking and situational mastery."
+      },
+      {
+        "id": "TF005",
+        "topic": "Staff Officer",
+        "question": "Anticipation means thinking ahead and foreseeing emerging requirements.",
+        "answer": true,
+        "explanation": "True. Anticipation means thinking ahead and foreseeing emerging requirements."
+      },
+      {
+        "id": "TF006",
+        "topic": "Staff Officer",
+        "question": "Attention to detail recognises that small errors cannot have operational consequences.",
+        "answer": false,
+        "explanation": "False. The lecture material supports the following statement: Attention to detail recognises that small errors can have operational consequences."
+      },
+      {
+        "id": "TF007",
+        "topic": "Staff Officer",
+        "question": "Situational mastery requires awareness, adaptability, timely judgement, prioritisation and foresight.",
+        "answer": true,
+        "explanation": "True. Situational mastery requires awareness, adaptability, timely judgement, prioritisation and foresight."
+      },
+      {
+        "id": "TF008",
+        "topic": "C4I",
+        "question": "It is incorrect that staff officers support command through planning, coordination, information management, communication and decision support.",
+        "answer": false,
+        "explanation": "False. The lecture material supports the following statement: Staff officers support command through planning, coordination, information management, communication and decision support."
+      },
+      {
+        "id": "TF009",
+        "topic": "C4I",
+        "question": "The staff officer strengthens command rather than competing with it.",
+        "answer": true,
+        "explanation": "True. The staff officer strengthens command rather than competing with it."
+      },
+      {
+        "id": "TF010",
+        "topic": "C4I",
+        "question": "It is incorrect that poor control creates surprises, confusion, wastage and embarrassment.",
+        "answer": false,
+        "explanation": "False. The lecture material supports the following statement: Poor control creates surprises, confusion, wastage and embarrassment."
+      },
+      {
+        "id": "TF011",
+        "topic": "Ethics and Leadership",
+        "question": "Leadership influences people and improves organisations through competence, character, professionalism and moral example.",
+        "answer": true,
+        "explanation": "True. Leadership influences people and improves organisations through competence, character, professionalism and moral example."
+      },
+      {
+        "id": "TF012",
+        "topic": "Ethics and Leadership",
+        "question": "It is incorrect that confidentiality means keeping official and sensitive information secret.",
+        "answer": false,
+        "explanation": "False. The lecture material supports the following statement: Confidentiality means keeping official and sensitive information secret."
+      },
+      {
+        "id": "TF013",
+        "topic": "Ethics and Leadership",
+        "question": "Neutrality bases recommendations on facts, merit and operational requirements.",
+        "answer": true,
+        "explanation": "True. Neutrality bases recommendations on facts, merit and operational requirements."
+      },
+      {
+        "id": "TF014",
+        "topic": "Power and Authority",
+        "question": "Military power is not never owned; it is temporarily entrusted for responsible service.",
+        "answer": false,
+        "explanation": "False. The lecture material supports the following statement: Military power is never owned; it is temporarily entrusted for responsible service."
+      },
+      {
+        "id": "TF015",
+        "topic": "Power and Authority",
+        "question": "Privileges support effective service delivery and are not rewards for personal superiority.",
+        "answer": true,
+        "explanation": "True. Privileges support effective service delivery and are not rewards for personal superiority."
+      },
+      {
+        "id": "TF016",
+        "topic": "Power and Authority",
+        "question": "It is incorrect that abuse of access may involve using government resources or personnel for personal benefit.",
+        "answer": false,
+        "explanation": "False. The lecture material supports the following statement: Abuse of access may involve using government resources or personnel for personal benefit."
+      },
+      {
+        "id": "TF017",
+        "topic": "Power and Authority",
+        "question": "Power abuse can cause low morale and damage public trust.",
+        "answer": true,
+        "explanation": "True. Power abuse can cause low morale and damage public trust."
+      },
+      {
+        "id": "TF018",
+        "topic": "Culture of Standards",
+        "question": "Standards are not established levels of quality, procedures, conduct, performance or expectations.",
+        "answer": false,
+        "explanation": "False. The lecture material supports the following statement: Standards are established levels of quality, procedures, conduct, performance or expectations."
+      },
+      {
+        "id": "TF019",
+        "topic": "Culture of Standards",
+        "question": "Standards promote consistency, predictability, reliability and excellence.",
+        "answer": true,
+        "explanation": "True. Standards promote consistency, predictability, reliability and excellence."
+      },
+      {
+        "id": "TF020",
+        "topic": "Culture of Standards",
+        "question": "Military standards are not critical because the profession of arms directly involves human lives.",
+        "answer": false,
+        "explanation": "False. The lecture material supports the following statement: Military standards are critical because the profession of arms directly involves human lives."
+      },
+      {
+        "id": "TF021",
+        "topic": "Systems Thinking",
+        "question": "Systems thinking sees wholes, patterns and interrelationships rather than isolated events.",
+        "answer": true,
+        "explanation": "True. Systems thinking sees wholes, patterns and interrelationships rather than isolated events."
+      },
+      {
+        "id": "TF022",
+        "topic": "Systems Thinking",
+        "question": "The seven disabilities are I am my position; the enemy is not out there; fixation on events; delusion of learning from experience; illusion of taking charge; boiled frog; myth of the management team.",
+        "answer": false,
+        "explanation": "False. The lecture material supports the following statement: The seven disabilities are I am my position; the enemy is out there; fixation on events; delusion of learning from experience; illusion of taking charge; boiled frog; myth of the management team."
+      },
+      {
+        "id": "TF023",
+        "topic": "Systems Thinking",
+        "question": "Fixation on events is tactical near-sightedness that treats events as disconnected moments.",
+        "answer": true,
+        "explanation": "True. Fixation on events is tactical near-sightedness that treats events as disconnected moments."
+      },
+      {
+        "id": "TF024",
+        "topic": "Systems Thinking",
+        "question": "The boiled frog describes failure to notice gradual changes until it is not too late.",
+        "answer": false,
+        "explanation": "False. The lecture material supports the following statement: The boiled frog describes failure to notice gradual changes until it is too late."
+      },
+      {
+        "id": "TF025",
+        "topic": "Systems Thinking",
+        "question": "Senge's five disciplines are personal mastery, mental models, shared vision, team learning and systems thinking.",
+        "answer": true,
+        "explanation": "True. Senge's five disciplines are personal mastery, mental models, shared vision, team learning and systems thinking."
+      },
+      {
+        "id": "TF026",
+        "topic": "Systems Thinking",
+        "question": "It is incorrect that event explanations ask who did what; pattern explanations examine trends; structural explanations identify underlying causes.",
+        "answer": false,
+        "explanation": "False. The lecture material supports the following statement: Event explanations ask who did what; pattern explanations examine trends; structural explanations identify underlying causes."
+      },
+      {
+        "id": "TF027",
+        "topic": "Managed System",
+        "question": "A managed system is a structured set of policies, processes and procedures guiding activities towards missions and objectives.",
+        "answer": true,
+        "explanation": "True. A managed system is a structured set of policies, processes and procedures guiding activities towards missions and objectives."
+      },
+      {
+        "id": "TF028",
+        "topic": "Managed System",
+        "question": "Inputs are policies; processes convert inputs to outputs; outputs are procedures; feedback is not review.",
+        "answer": false,
+        "explanation": "False. The lecture material supports the following statement: Inputs are policies; processes convert inputs to outputs; outputs are procedures; feedback is review."
+      },
+      {
+        "id": "TF029",
+        "topic": "Managed System",
+        "question": "General Systems Theory views an entity as an integrated whole of interconnected parts.",
+        "answer": true,
+        "explanation": "True. General Systems Theory views an entity as an integrated whole of interconnected parts."
+      },
+      {
+        "id": "TF030",
+        "topic": "Managed System",
+        "question": "It is incorrect that an open system exchanges information, energy and matter with its environment.",
+        "answer": false,
+        "explanation": "False. The lecture material supports the following statement: An open system exchanges information, energy and matter with its environment."
+      },
+      {
+        "id": "TF031",
+        "topic": "Managed System",
+        "question": "Mechanistic organisations emphasise efficiency, predictability, control, centralisation and formal rules.",
+        "answer": true,
+        "explanation": "True. Mechanistic organisations emphasise efficiency, predictability, control, centralisation and formal rules."
+      },
+      {
+        "id": "TF032",
+        "topic": "Managed System",
+        "question": "It is incorrect that team of Teams blends traditional military discipline with decentralised network agility.",
+        "answer": false,
+        "explanation": "False. The lecture material supports the following statement: Team of Teams blends traditional military discipline with decentralised network agility."
+      },
+      {
+        "id": "TF033",
+        "topic": "National Security",
+        "question": "National security is not the exclusive responsibility of the Armed Forces.",
+        "answer": true,
+        "explanation": "True. National security is not the exclusive responsibility of the Armed Forces."
+      },
+      {
+        "id": "TF034",
+        "topic": "National Security",
+        "question": "Weak intelligence cannot undermine military strength.",
+        "answer": false,
+        "explanation": "False. The lecture material supports the following statement: Weak intelligence can undermine military strength."
+      },
+      {
+        "id": "TF035",
+        "topic": "National Security",
+        "question": "Contemporary security threats require multidimensional solutions.",
+        "answer": true,
+        "explanation": "True. Contemporary security threats require multidimensional solutions."
+      },
+      {
+        "id": "TF036",
+        "topic": "National Security",
+        "question": "National security architecture does not include political leadership, the military, security and intelligence agencies, civil-military relations and inter-agency coordination.",
+        "answer": false,
+        "explanation": "False. The lecture material supports the following statement: National security architecture includes political leadership, the military, security and intelligence agencies, civil-military relations and inter-agency coordination."
+      },
+      {
+        "id": "TF037",
+        "topic": "Situational Awareness",
+        "question": "Perception is noticing what is happening in the environment.",
+        "answer": true,
+        "explanation": "True. Perception is noticing what is happening in the environment."
+      },
+      {
+        "id": "TF038",
+        "topic": "Situational Awareness",
+        "question": "Situational awareness asks what is not happening, why it is happening and what is likely next.",
+        "answer": false,
+        "explanation": "False. The lecture material supports the following statement: Situational awareness asks what is happening, why it is happening and what is likely next."
+      },
+      {
+        "id": "TF039",
+        "topic": "Situational Awareness",
+        "question": "Situational awareness extends to offices, headquarters, logistics hubs, workshops, stores, barracks and training institutions.",
+        "answer": true,
+        "explanation": "True. Situational awareness extends to offices, headquarters, logistics hubs, workshops, stores, barracks and training institutions."
+      },
+      {
+        "id": "TF040",
+        "topic": "Situational Awareness",
+        "question": "It is incorrect that effective staff officers detect patterns and anomalies, understand behaviour, identify risks and advise commanders.",
+        "answer": false,
+        "explanation": "False. The lecture material supports the following statement: Effective staff officers detect patterns and anomalies, understand behaviour, identify risks and advise commanders."
+      },
+      {
+        "id": "TF041",
+        "topic": "Situational Awareness",
+        "question": "A routine working environment can create complacency and cause abnormal conditions to be treated as normal.",
+        "answer": true,
+        "explanation": "Routine can create complacency and normalise abnormal conditions."
+      },
+      {
+        "id": "TF042",
+        "topic": "Situational Awareness",
+        "question": "Confirmation bias favours information that supports an existing belief or assessment.",
+        "answer": true,
+        "explanation": "Confirmation bias favours information supporting existing beliefs."
+      },
+      {
+        "id": "TF043",
+        "topic": "Situational Awareness",
+        "question": "Rank-induced isolation can weaken situational awareness by restricting information reaching senior leaders.",
+        "answer": true,
+        "explanation": "Rank-induced isolation can limit information reaching senior personnel."
+      },
+      {
+        "id": "TF044",
+        "topic": "Situational Awareness",
+        "question": "A report received through the chain of command makes ground-truth verification unnecessary.",
+        "answer": false,
+        "explanation": "Ground-truth verification and independent checks can expose discrepancies."
+      },
+      {
+        "id": "TF045",
+        "topic": "Situational Awareness",
+        "question": "Overreliance on reports can weaken situational awareness.",
+        "answer": true,
+        "explanation": "Reports should be assessed and, where possible, checked against ground truth."
+      },
+      {
+        "id": "TF046",
+        "topic": "Situational Awareness",
+        "question": "Cross-functional awareness helps staff recognise how developments affect other functions.",
+        "answer": true,
+        "explanation": "Cross-functional awareness reveals interrelationships."
+      },
+      {
+        "id": "TF047",
+        "topic": "Situational Awareness",
+        "question": "Morale, leadership, discipline, stress and interpersonal relationships can influence military effectiveness.",
+        "answer": true,
+        "explanation": "These human and organisational conditions affect performance."
+      },
+      {
+        "id": "TF048",
+        "topic": "Situational Awareness",
+        "question": "A staff officer should investigate anomalies rather than automatically treating them as routine.",
+        "answer": true,
+        "explanation": "Anomalies may be weak signals of emerging problems."
+      },
+      {
+        "id": "TF049",
+        "topic": "Situational Awareness",
+        "question": "Leaders can strengthen situational awareness by listening to junior observations and encouraging early reporting.",
+        "answer": true,
+        "explanation": "Information from junior personnel can reveal weak signals."
+      },
+      {
+        "id": "TF050",
+        "topic": "Situational Awareness",
+        "question": "A perceptive professional waits for instructions and concentrates only on assigned tasks.",
+        "answer": false,
+        "explanation": "A perceptive professional detects weak signals, anticipates consequences and warns command early."
+      },
+      {
+        "id": "TF051",
+        "topic": "Human Foundations",
+        "question": "Psychological ownership involves regarding an area of responsibility as one to safeguard, understand and advance.",
+        "answer": true,
+        "explanation": "This is the lecture definition of psychological ownership."
+      },
+      {
+        "id": "TF052",
+        "topic": "Human Foundations",
+        "question": "Confirmation bias may cause a person to defend an existing assessment despite receiving better information.",
+        "answer": true,
+        "explanation": "Confirmation bias privileges confirming evidence."
+      },
+      {
+        "id": "TF053",
+        "topic": "Human Foundations",
+        "question": "Anchoring occurs when judgement is disproportionately influenced by the first credible information received.",
+        "answer": true,
+        "explanation": "This is the definition of anchoring."
+      },
+      {
+        "id": "TF054",
+        "topic": "Human Foundations",
+        "question": "Groupthink occurs when a cohesive group prioritises agreement over examining alternatives.",
+        "answer": true,
+        "explanation": "Groupthink suppresses critical evaluation."
+      },
+      {
+        "id": "TF055",
+        "topic": "Human Foundations",
+        "question": "Psychological safety allows personnel to raise concerns and challenge assumptions without humiliation or punishment merely for speaking professionally.",
+        "answer": true,
+        "explanation": "This is the lecture’s core description of psychological safety."
+      },
+      {
+        "id": "TF056",
+        "topic": "Human Foundations",
+        "question": "An authority gradient is a perceived difference in seniority that can inhibit junior personnel from challenging seniors.",
+        "answer": true,
+        "explanation": "Authority gradients can discourage upward communication."
+      },
+      {
+        "id": "TF057",
+        "topic": "Human Foundations",
+        "question": "Individual competence automatically guarantees effective team performance.",
+        "answer": false,
+        "explanation": "Teams also require role clarity, shared understanding, coordination awareness and mutual trust."
+      },
+      {
+        "id": "TF058",
+        "topic": "Human Foundations",
+        "question": "After-Action Reviews help units reflect on what worked and what failed.",
+        "answer": true,
+        "explanation": "AARs structure reflection and learning."
+      },
+      {
+        "id": "TF059",
+        "topic": "Human Foundations",
+        "question": "Institutional learning is strengthened when validated lessons are incorporated into doctrine, procedures and training.",
+        "answer": true,
+        "explanation": "Lessons should be institutionalised, not merely recorded."
+      },
+      {
+        "id": "TF060",
+        "topic": "Human Foundations",
+        "question": "Systems Thinking treats organisational problems as unrelated events with no interdependence.",
+        "answer": false,
+        "explanation": "Systems Thinking examines relationships, patterns and underlying structures."
+      }
+    ],
+    "fill_in_gap": [
+      {
+        "id": "FG001",
+        "topic": "Staff Officer",
+        "question": "__________ supports, advises, coordinates and enables command.",
+        "answer": "A staff officer",
+        "explanation": "A staff officer supports, advises, coordinates and enables command."
+      },
+      {
+        "id": "FG002",
+        "topic": "Staff Officer",
+        "question": "__________ includes interpreting command intent, managing information and analysing options.",
+        "answer": "Decision support",
+        "explanation": "Decision support includes interpreting command intent, managing information and analysing options."
+      },
+      {
+        "id": "FG003",
+        "topic": "Staff Officer",
+        "question": "Administrative governance maintains efficiency, __________ and compliance.",
+        "answer": "accountability",
+        "explanation": "Administrative governance maintains efficiency, accountability and compliance."
+      },
+      {
+        "id": "FG004",
+        "topic": "Staff Officer",
+        "question": "The four pillars are __________, ethics, systems thinking and situational mastery.",
+        "answer": "mindset",
+        "explanation": "The four pillars are mindset, ethics, systems thinking and situational mastery."
+      },
+      {
+        "id": "FG005",
+        "topic": "Staff Officer",
+        "question": "__________ means thinking ahead and foreseeing emerging requirements.",
+        "answer": "Anticipation",
+        "explanation": "Anticipation means thinking ahead and foreseeing emerging requirements."
+      },
+      {
+        "id": "FG006",
+        "topic": "Staff Officer",
+        "question": "__________ recognises that small errors can have operational consequences.",
+        "answer": "Attention to detail",
+        "explanation": "Attention to detail recognises that small errors can have operational consequences."
+      },
+      {
+        "id": "FG007",
+        "topic": "Staff Officer",
+        "question": "__________ requires awareness, adaptability, timely judgement, prioritisation and foresight.",
+        "answer": "Situational mastery",
+        "explanation": "Situational mastery requires awareness, adaptability, timely judgement, prioritisation and foresight."
+      },
+      {
+        "id": "FG008",
+        "topic": "C4I",
+        "question": "Staff officers support command through __________, coordination, information management, communication and decision support.",
+        "answer": "planning",
+        "explanation": "Staff officers support command through planning, coordination, information management, communication and decision support."
+      },
+      {
+        "id": "FG009",
+        "topic": "Staff Officer",
+        "question": "The staff officer strengthens command rather than competing with the __________.",
+        "answer": "commander",
+        "explanation": "The staff officer enables and strengthens command; the role is not a rival command."
+      },
+      {
+        "id": "FG010",
+        "topic": "C4I",
+        "question": "Poor control creates surprises, confusion, wastage and __________.",
+        "answer": "embarrassment",
+        "explanation": "Poor control creates surprises, confusion, wastage and embarrassment."
+      },
+      {
+        "id": "FG011",
+        "topic": "Ethics and Leadership",
+        "question": "Leadership influences people and improves organisations through __________, character, professionalism and moral example.",
+        "answer": "competence",
+        "explanation": "Leadership influences people and improves organisations through competence, character, professionalism and moral example."
+      },
+      {
+        "id": "FG012",
+        "topic": "Ethics and Leadership",
+        "question": "__________ means keeping official and sensitive information secret.",
+        "answer": "Confidentiality",
+        "explanation": "Confidentiality means keeping official and sensitive information secret."
+      },
+      {
+        "id": "FG013",
+        "topic": "Ethics and Leadership",
+        "question": "__________ bases recommendations on facts, merit and operational requirements.",
+        "answer": "Neutrality",
+        "explanation": "Neutrality bases recommendations on facts, merit and operational requirements."
+      },
+      {
+        "id": "FG014",
+        "topic": "Power and Authority",
+        "question": "__________ is never owned; it is temporarily entrusted for responsible service.",
+        "answer": "Military power",
+        "explanation": "Military power is never owned; it is temporarily entrusted for responsible service."
+      },
+      {
+        "id": "FG015",
+        "topic": "Power, Privilege and Restraint",
+        "question": "Privileges support effective service delivery and are not rewards for personal __________.",
+        "answer": "superiority",
+        "explanation": "The lecture distinguishes service-related privilege from personal superiority."
+      },
+      {
+        "id": "FG016",
+        "topic": "Power and Authority",
+        "question": "Abuse of access may involve using government resources or personnel for personal __________.",
+        "answer": "benefit",
+        "explanation": "Abuse of access may involve using government resources or personnel for personal benefit."
+      },
+      {
+        "id": "FG017",
+        "topic": "Power and Authority",
+        "question": "Power abuse can cause low __________ and damage public trust.",
+        "answer": "morale",
+        "explanation": "Power abuse can cause low morale and damage public trust."
+      },
+      {
+        "id": "FG018",
+        "topic": "Culture of Standards",
+        "question": "__________ are established levels of quality, procedures, conduct, performance or expectations.",
+        "answer": "Standards",
+        "explanation": "Standards are established levels of quality, procedures, conduct, performance or expectations."
+      },
+      {
+        "id": "FG019",
+        "topic": "Culture of Standards",
+        "question": "__________ promote consistency, predictability, reliability and excellence.",
+        "answer": "Standards",
+        "explanation": "Standards promote consistency, predictability, reliability and excellence."
+      },
+      {
+        "id": "FG020",
+        "topic": "Culture of Standards",
+        "question": "Military __________ are critical because the profession of arms directly involves human lives.",
+        "answer": "standards",
+        "explanation": "Military standards are critical because the profession of arms directly involves human lives."
+      },
+      {
+        "id": "FG021",
+        "topic": "Systems Thinking",
+        "question": "__________ sees wholes, patterns and interrelationships rather than isolated events.",
+        "answer": "Systems thinking",
+        "explanation": "Systems thinking sees wholes, patterns and interrelationships rather than isolated events."
+      },
+      {
+        "id": "FG022",
+        "topic": "Systems Thinking",
+        "question": "__________ are I am my position; the enemy is out there; fixation on events; delusion of learning from experience; illusion of taking charge; boiled frog; myth of the management team.",
+        "answer": "The seven disabilities",
+        "explanation": "The seven disabilities are I am my position; the enemy is out there; fixation on events; delusion of learning from experience; illusion of taking charge; boiled frog; myth of the management team."
+      },
+      {
+        "id": "FG023",
+        "topic": "Systems Thinking",
+        "question": "__________ is tactical near-sightedness that treats events as disconnected moments.",
+        "answer": "Fixation on events",
+        "explanation": "Fixation on events is tactical near-sightedness that treats events as disconnected moments."
+      },
+      {
+        "id": "FG024",
+        "topic": "Systems Thinking",
+        "question": "The boiled frog describes failure to notice gradual changes until it is too __________.",
+        "answer": "late",
+        "explanation": "The boiled frog describes failure to notice gradual changes until it is too late."
+      },
+      {
+        "id": "FG025",
+        "topic": "Systems Thinking",
+        "question": "Senge's five disciplines are personal mastery, mental models, shared vision, team learning and __________.",
+        "answer": "systems thinking",
+        "explanation": "Senge's five disciplines are personal mastery, mental models, shared vision, team learning and systems thinking."
+      },
+      {
+        "id": "FG026",
+        "topic": "Systems Thinking",
+        "question": "Event explanations ask who did what; pattern explanations examine trends; structural explanations identify underlying __________.",
+        "answer": "causes",
+        "explanation": "Event explanations ask who did what; pattern explanations examine trends; structural explanations identify underlying causes."
+      },
+      {
+        "id": "FG027",
+        "topic": "Managed System",
+        "question": "__________ is a structured set of policies, processes and procedures guiding activities towards missions and objectives.",
+        "answer": "A managed system",
+        "explanation": "A managed system is a structured set of policies, processes and procedures guiding activities towards missions and objectives."
+      },
+      {
+        "id": "FG028",
+        "topic": "Managed System",
+        "question": "Inputs are policies; processes convert inputs to outputs; outputs are procedures; __________ is review.",
+        "answer": "feedback",
+        "explanation": "Inputs are policies; processes convert inputs to outputs; outputs are procedures; feedback is review."
+      },
+      {
+        "id": "FG029",
+        "topic": "Managed System",
+        "question": "General Systems Theory views an entity as an integrated whole of interconnected __________.",
+        "answer": "parts",
+        "explanation": "General Systems Theory views an entity as an integrated whole of interconnected parts."
+      },
+      {
+        "id": "FG030",
+        "topic": "Managed System",
+        "question": "An __________ exchanges information, energy and matter with its environment.",
+        "answer": "open system",
+        "explanation": "An open system exchanges information, energy and matter with its environment."
+      },
+      {
+        "id": "FG031",
+        "topic": "Managed System",
+        "question": "Mechanistic organisations emphasise efficiency, predictability, control, centralisation and formal __________.",
+        "answer": "rules",
+        "explanation": "Mechanistic organisations emphasise efficiency, predictability, control, centralisation and formal rules."
+      },
+      {
+        "id": "FG032",
+        "topic": "Managed System",
+        "question": "__________ blends traditional military discipline with decentralised network agility.",
+        "answer": "Team of Teams",
+        "explanation": "Team of Teams blends traditional military discipline with decentralised network agility."
+      },
+      {
+        "id": "FG033",
+        "topic": "National Security",
+        "question": "__________ is not the exclusive responsibility of the Armed Forces.",
+        "answer": "National security",
+        "explanation": "National security is not the exclusive responsibility of the Armed Forces."
+      },
+      {
+        "id": "FG034",
+        "topic": "National Security",
+        "question": "__________ can undermine military strength.",
+        "answer": "Weak intelligence",
+        "explanation": "Weak intelligence can undermine military strength."
+      },
+      {
+        "id": "FG035",
+        "topic": "National Security",
+        "question": "Contemporary security threats require multidimensional __________.",
+        "answer": "solutions",
+        "explanation": "Contemporary security threats require multidimensional solutions."
+      },
+      {
+        "id": "FG036",
+        "topic": "National Security",
+        "question": "National security architecture includes political leadership, the military, security and intelligence agencies, civil-military relations and __________.",
+        "answer": "inter-agency coordination",
+        "explanation": "National security architecture includes political leadership, the military, security and intelligence agencies, civil-military relations and inter-agency coordination."
+      },
+      {
+        "id": "FG037",
+        "topic": "Situational Awareness",
+        "question": "__________ is noticing what is happening in the environment.",
+        "answer": "Perception",
+        "explanation": "Perception is noticing what is happening in the environment."
+      },
+      {
+        "id": "FG038",
+        "topic": "Situational Awareness",
+        "question": "__________ is happening, why it is happening and what is likely next.",
+        "answer": "Situational awareness asks what",
+        "explanation": "Situational awareness asks what is happening, why it is happening and what is likely next."
+      },
+      {
+        "id": "FG039",
+        "topic": "Situational Awareness",
+        "question": "Situational awareness extends to offices, headquarters, logistics hubs, workshops, stores, barracks and training __________.",
+        "answer": "institutions",
+        "explanation": "The source lists these institutional settings as contexts where situational awareness matters."
+      },
+      {
+        "id": "FG040",
+        "topic": "Situational Awareness",
+        "question": "Effective staff officers detect patterns and anomalies, understand behaviour, identify risks and advise __________.",
+        "answer": "commanders",
+        "explanation": "Effective staff officers detect patterns and anomalies, understand behaviour, identify risks and advise commanders."
+      },
+      {
+        "id": "FG041",
+        "topic": "Situational Awareness",
+        "question": "Three levels of situational awareness are perception, comprehension and __________.",
+        "answer": "projection",
+        "explanation": "Situational awareness progresses from perception to comprehension to projection."
+      },
+      {
+        "id": "FG042",
+        "topic": "Situational Awareness",
+        "question": "Interpreting observations and their meaning in a wider context is __________.",
+        "answer": "comprehension",
+        "explanation": "Comprehension interprets what has been perceived."
+      },
+      {
+        "id": "FG043",
+        "topic": "Situational Awareness",
+        "question": "The highest level of situational awareness anticipates what is likely to happen __________.",
+        "answer": "next",
+        "explanation": "Projection concerns likely future developments."
+      },
+      {
+        "id": "FG044",
+        "topic": "Situational Awareness",
+        "question": "Crises may begin as weak signals, deviations, unusual behaviours and delayed __________.",
+        "answer": "reports",
+        "explanation": "Weak signals may precede visible crises."
+      },
+      {
+        "id": "FG045",
+        "topic": "Situational Awareness",
+        "question": "Connecting scattered signals helps staff anticipate __________.",
+        "answer": "consequences",
+        "explanation": "Pattern recognition supports anticipation."
+      },
+      {
+        "id": "FG046",
+        "topic": "Situational Awareness",
+        "question": "Routine can create __________, causing abnormal conditions to appear normal.",
+        "answer": "complacency",
+        "explanation": "Routine can normalise abnormal conditions."
+      },
+      {
+        "id": "FG047",
+        "topic": "Situational Awareness",
+        "question": "The tendency to favour information supporting existing beliefs is confirmation __________.",
+        "answer": "bias",
+        "explanation": "This is the definition of confirmation bias."
+      },
+      {
+        "id": "FG048",
+        "topic": "Situational Awareness",
+        "question": "Physical inspection, independent checks and direct observation support __________ verification.",
+        "answer": "ground-truth",
+        "explanation": "Ground-truth verification tests reported information."
+      },
+      {
+        "id": "FG049",
+        "topic": "Situational Awareness",
+        "question": "A perceptive professional detects weak signals, anticipates consequences and warns command __________.",
+        "answer": "early",
+        "explanation": "Early warning supports timely command decisions."
+      },
+      {
+        "id": "FG050",
+        "topic": "Situational Awareness",
+        "question": "Psychological ownership means regarding an area as one to safeguard, understand and __________.",
+        "answer": "advance",
+        "explanation": "This follows the lecture definition."
+      },
+      {
+        "id": "FG051",
+        "topic": "Human Foundations",
+        "question": "Professional identity integrates role demands, responsibilities and values into one’s professional __________.",
+        "answer": "self-concept",
+        "explanation": "This is the lecture description of professional identity."
+      },
+      {
+        "id": "FG052",
+        "topic": "Human Foundations",
+        "question": "Judgement disproportionately influenced by the first credible information is __________.",
+        "answer": "anchoring",
+        "explanation": "Anchoring is the influence of an initial reference point."
+      },
+      {
+        "id": "FG053",
+        "topic": "Human Foundations",
+        "question": "A cohesive group’s preference for agreement over alternatives is __________.",
+        "answer": "groupthink",
+        "explanation": "Groupthink suppresses examination of alternatives."
+      },
+      {
+        "id": "FG054",
+        "topic": "Human Foundations",
+        "question": "Psychological safety allows concerns to be raised without being humiliated or __________ merely for speaking professionally.",
+        "answer": "punished",
+        "explanation": "This reflects the lecture’s description of psychological safety."
+      },
+      {
+        "id": "FG055",
+        "topic": "Human Foundations",
+        "question": "An authority __________ is a perceived difference in seniority that may inhibit challenge.",
+        "answer": "gradient",
+        "explanation": "The term is authority gradient."
+      },
+      {
+        "id": "FG056",
+        "topic": "Human Foundations",
+        "question": "Effective teams require role clarity, shared understanding, coordination awareness and mutual __________.",
+        "answer": "trust",
+        "explanation": "These are stated conditions for collective effectiveness."
+      },
+      {
+        "id": "FG057",
+        "topic": "Human Foundations",
+        "question": "The human foundations lecture describes staff work as a __________ profession.",
+        "answer": "thinking",
+        "explanation": "The source uses the phrase “thinking profession”."
+      },
+      {
+        "id": "FG058",
+        "topic": "Human Foundations",
+        "question": "After-Action Reviews support reflection on what worked and what __________.",
+        "answer": "failed",
+        "explanation": "AARs examine successes and failures."
+      },
+      {
+        "id": "FG059",
+        "topic": "Human Foundations",
+        "question": "Most organisational failures occur at the __________ between functions such as logistics and operations.",
+        "answer": "seams",
+        "explanation": "The source highlights failures at organisational seams."
+      },
+      {
+        "id": "FG060",
+        "topic": "Emotional Discipline",
+        "question": "Aristotle’s five tests of anger include the right person, reason, time, degree and __________.",
+        "answer": "manner",
+        "explanation": "These are the five tests presented in the lecture."
+      }
+    ]
+  },
+  "quality_control": {
+    "status": "Consolidated revised master bank; not yet deployed to the live application.",
+    "mcq": "60 unique stems. Distractors are drawn from other source-supported propositions in the same topic where possible; they are deliberately not formed by corrupting or mechanically negating the correct statement. Review options carefully where topics contain fewer than four closely related propositions.",
+    "true_false": "60 items; the final 20 are distinct replacements, avoiding the earlier duplicated block and malformed negations.",
+    "fill_in_gap": "60 items; corrected malformed blanks and removed the unsupported aphorism. The final 20 are distinct replacements.",
+    "source_caution": "The lecture’s stated managed-system sequence (inputs as policies, processes convert inputs, outputs as procedures, feedback as review) is retained as lecture wording, not silently normalised to another systems model."
+  }
+}
